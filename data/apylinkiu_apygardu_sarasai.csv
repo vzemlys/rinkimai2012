@@ -1,0 +1,2019 @@
+"constituency","constituency_no","district","district_no"
+"Naujamiesčio",1,"Gedimino",2
+"Naujamiesčio",1,"Saltoniškių",3
+"Naujamiesčio",1,"Sėlių",4
+"Naujamiesčio",1,"Liubarto",5
+"Naujamiesčio",1,"Vytauto",6
+"Naujamiesčio",1,"Birutės",7
+"Naujamiesčio",1,"Pamėnkalnio",8
+"Naujamiesčio",1,"Taurakalnio",10
+"Naujamiesčio",1,"S. Konarskio",12
+"Naujamiesčio",1,"Mindaugo",13
+"Naujamiesčio",1,"Vytenio",15
+"Naujamiesčio",1,"Naugarduko",16
+"Naujamiesčio",1,"Algirdo",17
+"Naujamiesčio",1,"Naujininkų",457
+"Naujamiesčio",1,"Brolių",458
+"Naujamiesčio",1,"Gimnazijos",459
+"Senamiesčio",2,"Dailės",51
+"Senamiesčio",2,"Užupio",52
+"Senamiesčio",2,"A. Krutulio",53
+"Senamiesčio",2,"A. Juozapavičiaus",54
+"Senamiesčio",2,"Didlaukio",55
+"Senamiesčio",2,"Licėjaus",56
+"Senamiesčio",2,"Senvagės",57
+"Senamiesčio",2,"V. Sirokomlės",59
+"Senamiesčio",2,"S. Nėries",60
+"Senamiesčio",2,"Naugarduko",62
+"Senamiesčio",2,"A.Vienuolio",65
+"Senamiesčio",2,"M. Daukšos",66
+"Senamiesčio",2,"V. Šopeno",67
+"Senamiesčio",2,"Baltupių",203
+"Antakalnio",3,"Filaretų",101
+"Antakalnio",3,"Olandų",102
+"Antakalnio",3,"L. Sapiegos",104
+"Antakalnio",3,"Šilo",105
+"Antakalnio",3,"Antakalnio",107
+"Antakalnio",3,"Švyturio",109
+"Antakalnio",3,"B. Sruogos",111
+"Antakalnio",3,"Saulėtekio",112
+"Antakalnio",3,"Markučių",115
+"Antakalnio",3,"Liepkalnio",116
+"Antakalnio",3,"Karačiūnų",119
+"Antakalnio",3,"Antavilių",120
+"Antakalnio",3,"Balsių",200
+"Antakalnio",3,"Popieriaus",201
+"Žirmūnų",4,"Muitininkų",24
+"Žirmūnų",4,"Žirmūnų",151
+"Žirmūnų",4,"Kareivių",152
+"Žirmūnų",4,"Prekybininkų",153
+"Žirmūnų",4,"Miestelio",154
+"Žirmūnų",4,"Moksleivių",155
+"Žirmūnų",4,"Raitininkų",156
+"Žirmūnų",4,"Sporto",157
+"Žirmūnų",4,"Kazliškių",158
+"Žirmūnų",4,"Rinktinės",159
+"Žirmūnų",4,"Tuskulėnų",160
+"Žirmūnų",4,"Trimitų",161
+"Žirmūnų",4,"Minties",162
+"Žirmūnų",4,"Asiūklių",163
+"Žirmūnų",4,"Apkasų",164
+"Žirmūnų",4,"Verkių",165
+"Žirmūnų",4,"Kalvarijų",166
+"Fabijoniškių",5,"Mokyklos",202
+"Fabijoniškių",5,"Fabijoniškių",205
+"Fabijoniškių",5,"S. Stanevičiaus",207
+"Fabijoniškių",5,"Kaimelio",208
+"Fabijoniškių",5,"L. Giros",209
+"Fabijoniškių",5,"P. Žadeikos",210
+"Fabijoniškių",5,"Gedvydžių",211
+"Fabijoniškių",5,"Rugių",212
+"Fabijoniškių",5,"S. Nėries",213
+"Fabijoniškių",5,"Pavilnionių",214
+"Fabijoniškių",5,"Bajorų",215
+"Šeškinės",6,"Jovaro",206
+"Šeškinės",6,"Ozo",251
+"Šeškinės",6,"Viršuliškių",252
+"Šeškinės",6,"Lūžių",253
+"Šeškinės",6,"Mokslo",254
+"Šeškinės",6,"Čiobiškio",255
+"Šeškinės",6,"Musninkų",256
+"Šeškinės",6,"Dūkštų",257
+"Šeškinės",6,"Šeškinės",258
+"Šeškinės",6,"Ukmergės",259
+"Šeškinės",6,"Žygimanto Augusto",260
+"Šeškinės",6,"Paberžės",261
+"Šeškinės",6,"Gelvonų",262
+"Šeškinės",6,"Statybininkų",305
+"Justiniškių",7,"Gabijos",204
+"Justiniškių",7,"J. Baltrušaičio",216
+"Justiniškių",7,"Rygos",301
+"Justiniškių",7,"Taikos",302
+"Justiniškių",7,"Justiniškių",303
+"Justiniškių",7,"M. Biržiškos",304
+"Justiniškių",7,"Sietuvos",306
+"Justiniškių",7,"Žemynos",307
+"Justiniškių",7,"Medeinos",308
+"Justiniškių",7,"Pašilaičių",309
+"Justiniškių",7,"Įsruties",311
+"Karoliniškių",8,"Papilėnų",310
+"Karoliniškių",8,"Vydūno",312
+"Karoliniškių",8,"Tujų",351
+"Karoliniškių",8,"Sausio 13-osios",352
+"Karoliniškių",8,"Bokšto",353
+"Karoliniškių",8,"L. Asanavičiūtės",356
+"Karoliniškių",8,"V. Druskio",357
+"Karoliniškių",8,"R. Jankausko",358
+"Karoliniškių",8,"D. Gerbutavičiaus",359
+"Karoliniškių",8,"Sietyno",360
+"Karoliniškių",8,"A. P. Kavoliuko",361
+"Karoliniškių",8,"V. Vaitkaus",362
+"Karoliniškių",8,"A. J. Povilaičio",363
+"Karoliniškių",8,"Laisvės",364
+"Karoliniškių",8,"Pilaitės",369
+"Karoliniškių",8,"Kriaučiūnų",370
+"Lazdynų",9,"Trakų Vokės",48
+"Lazdynų",9,"Liudvinavo",78
+"Lazdynų",9,"Vingio",401
+"Lazdynų",9,"Geležinio Vilko",403
+"Lazdynų",9,"Gluosnių",405
+"Lazdynų",9,"Skroblų",407
+"Lazdynų",9,"Vilkpėdės",408
+"Lazdynų",9,"Riešuto",410
+"Lazdynų",9,"Titnago",411
+"Lazdynų",9,"Aukštųjų Panerių",412
+"Lazdynų",9,"Bukčių",413
+"Lazdynų",9,"Akacijų",414
+"Lazdynų",9,"Oslo",415
+"Lazdynų",9,"Žėručio",416
+"Lazdynų",9,"Paparčio",417
+"Naujosios Vilnios",10,"Dvarčionių",121
+"Naujosios Vilnios",10,"Lietuvių namų",452
+"Naujosios Vilnios",10,"Dzūkų",453
+"Naujosios Vilnios",10,"Kapsų",454
+"Naujosios Vilnios",10,"Dariaus ir Girėno",455
+"Naujosios Vilnios",10,"Kaminkelio",456
+"Naujosios Vilnios",10,"Kirtimų",460
+"Naujosios Vilnios",10,"Palydovo",461
+"Naujosios Vilnios",10,"Rugiagėlių",462
+"Naujosios Vilnios",10,"A. Kojelavičiaus",463
+"Naujosios Vilnios",10,"Užusienio",464
+"Naujosios Vilnios",10,"Genių",465
+"Naujosios Vilnios",10,"Pergalės",466
+"Naujosios Vilnios",10,"Darželio",467
+"Naujosios Vilnios",10,"Karklėnų",468
+"Naujosios Vilnios",10,"J. Kolaso",469
+"Naujosios Vilnios",10,"Parko",470
+"Naujosios Vilnios",10,"Pramonės",471
+"Šilainių",11,"Gamyklos",1
+"Šilainių",11,"Sargėnų",2
+"Šilainių",11,"Vėtrungės",3
+"Šilainių",11,"Rasytės",4
+"Šilainių",11,"Šarkuvos",5
+"Šilainių",11,"Kuršių",6
+"Šilainių",11,"Žemaičių",7
+"Šilainių",11,"Baltų",8
+"Šilainių",11,"Baltijos",9
+"Šilainių",11,"Žiemgalių",10
+"Šilainių",11,"Milikonių",11
+"Šilainių",11,"Demokratų",12
+"Šilainių",11,"Linkuvos",13
+"Aleksoto -  Vilijampolės",12,"Neries",14
+"Aleksoto -  Vilijampolės",12,"Sąjungos",15
+"Aleksoto -  Vilijampolės",12,"Dobilo",16
+"Aleksoto -  Vilijampolės",12,"Apuolės",18
+"Aleksoto -  Vilijampolės",12,"Seredžiaus",19
+"Aleksoto -  Vilijampolės",12,"Veršvų",21
+"Aleksoto -  Vilijampolės",12,"Žagarės",22
+"Aleksoto -  Vilijampolės",12,"Lampėdžių",23
+"Aleksoto -  Vilijampolės",12,"Kaniūkų",24
+"Aleksoto -  Vilijampolės",12,"Akademijos",25
+"Aleksoto -  Vilijampolės",12,"H. ir O Minkovskių",26
+"Aleksoto -  Vilijampolės",12,"J. Dobkevičiaus",27
+"Aleksoto -  Vilijampolės",12,"Veiverių",28
+"Aleksoto -  Vilijampolės",12,"Birutės",29
+"Aleksoto -  Vilijampolės",12,"Julijanavos",30
+"Aleksoto -  Vilijampolės",12,"Piliakalnio",31
+"Aleksoto -  Vilijampolės",12,"Ąžuolo",121
+"Aleksoto -  Vilijampolės",12,"Kazliškių",125
+"Aleksoto -  Vilijampolės",12,"Tirkiliškių",126
+"Aleksoto -  Vilijampolės",12,"Romainių",127
+"Centro",13,"Tekstilininkų",33
+"Centro",13,"Maironio",36
+"Centro",13,"A. Mackevičiaus",37
+"Centro",13,"Varpo",38
+"Centro",13,"Ryšių",39
+"Centro",13,"Radvilėnų",40
+"Centro",13,"J. Jablonskio",42
+"Centro",13,"Aušros",43
+"Centro",13,"Senojo tresto",45
+"Centro",13,"Gedimino",46
+"Centro",13,"Sporto",47
+"Centro",13,"Miško",49
+"Centro",13,"Studentų",94
+"Centro",13,"Parko",104
+"Centro",13,"Sodų",105
+"Žaliakalnio",14,"Jonavos",50
+"Žaliakalnio",14,"Saulės",51
+"Žaliakalnio",14,"L. Karsavino",52
+"Žaliakalnio",14,"Tvirtovės",53
+"Žaliakalnio",14,"Algirdo",54
+"Žaliakalnio",14,"Sukilėlių",55
+"Žaliakalnio",14,"Purienų",56
+"Žaliakalnio",14,"Vilties",57
+"Žaliakalnio",14,"Žeimenos",58
+"Žaliakalnio",14,"Versmės",60
+"Žaliakalnio",14,"Gerovės",61
+"Žaliakalnio",14,"M. Jankaus",62
+"Žaliakalnio",14,"S. Nėries",63
+"Žaliakalnio",14,"Vaidilutės",65
+"Kalniečių",15,"Aukuro",64
+"Kalniečių",15,"Šiaurės",66
+"Kalniečių",15,"S. Žukausko",67
+"Kalniečių",15,"Statybininkų",68
+"Kalniečių",15,"Rasos",69
+"Kalniečių",15,"P. Plechavičiaus",70
+"Kalniečių",15,"K. Škirpos",71
+"Kalniečių",15,"P. Lukšio",72
+"Dainavos",16,"Buitininkų",77
+"Dainavos",16,"Partizanų",78
+"Dainavos",16,"Pramonės",79
+"Dainavos",16,"Dainavos",80
+"Dainavos",16,"J. Urbšio",81
+"Dainavos",16,"Sartų",82
+"Dainavos",16,"A. Timinskio",83
+"Dainavos",16,"Nepriklausomybės",84
+"Dainavos",16,"Vytauto",85
+"Dainavos",16,"Atžalyno",86
+"Pramonės",17,"V. Krėvės",88
+"Pramonės",17,"Specialistų",89
+"Pramonės",17,"Taikos",91
+"Pramonės",17,"Vyturio",92
+"Pramonės",17,"Butrimonių",93
+"Pramonės",17,"Dujotiekio",96
+"Pramonės",17,"Girstučio",97
+"Pramonės",17,"Pašilės",98
+"Pramonės",17,"Knygnešių",99
+"Pramonės",17,"Palemono",101
+"Pramonės",17,"Pamario",102
+"Pramonės",17,"Nemuno",111
+"Panemunės",18,"Šančių",106
+"Panemunės",18,"Drobės",107
+"Panemunės",18,"Skuodo",108
+"Panemunės",18,"Žiburio",109
+"Panemunės",18,"Breslaujos",110
+"Panemunės",18,"Naglio",113
+"Panemunės",18,"Šilo",114
+"Panemunės",18,"Buriuotojų",116
+"Panemunės",18,"Vaidoto",117
+"Panemunės",18,"Pušų",118
+"Panemunės",18,"Vičiūnų",120
+"Panemunės",18,"Rokų",122
+"Panemunės",18,"Vaišvydavos",123
+"Danės",19,"Gimnazijos",1
+"Danės",19,"Danės",4
+"Danės",19,"Eglės",5
+"Danės",19,"Dviračių Treko",6
+"Danės",19,"Kretingos",7
+"Danės",19,"Šviesos",8
+"Danės",19,"Muzikos Centro",9
+"Danės",19,"Žaliakalnio",10
+"Danės",19,"Saulutės",11
+"Danės",19,"Tauralaukio",15
+"Danės",19,"Baltikalnio",16
+"Danės",19,"Saulėtekio",17
+"Danės",19,"Šatrijos",18
+"Danės",19,"Vilties",19
+"Danės",19,"Pingvinuko",20
+"Danės",19,"Šilojų",25
+"Danės",19,"Girulių",59
+"Danės",19,"Molo",60
+"Danės",19,"Prekybos uosto",63
+"Danės",19,"S.Daukanto",64
+"Danės",19,"Kuršių",65
+"Danės",19,"Politechnikos",66
+"Baltijos",20,"Klaipėdos Vandens",21
+"Baltijos",20,"Rumpiškių",22
+"Baltijos",20,"Aitvaro",23
+"Baltijos",20,"Brigantinos",26
+"Baltijos",20,"Draugystės",27
+"Baltijos",20,"Švyturio",29
+"Baltijos",20,"Olimpijos",30
+"Baltijos",20,"Dainavos",32
+"Baltijos",20,"Aušros",33
+"Baltijos",20,"Nykštuko",35
+"Baltijos",20,"Debreceno",36
+"Baltijos",20,"Gedminų",37
+"Baltijos",20,"Vėtrungės",38
+"Baltijos",20,"Žilvičio",39
+"Baltijos",20,"Menų mokyklos",45
+"Marių",21,"Versmės",47
+"Marių",21,"Vakarų",48
+"Marių",21,"Aukuro",49
+"Marių",21,"Želmenėlio",54
+"Marių",21,"Brožynų",55
+"Marių",21,"Laukininkai",56
+"Marių",21,"Budelkiemio",57
+"Marių",21,"Berželio",58
+"Marių",21,"Volungėlės",67
+"Marių",21,"Bandužių",68
+"Pajūrio",22,"Kaštonų",1
+"Pajūrio",22,"Kopų",1
+"Pajūrio",22,"Ateities",2
+"Pajūrio",22,"Smėlio",2
+"Pajūrio",22,"Pušų",3
+"Pajūrio",22,"Saulės",3
+"Pajūrio",22,"Vilniaus",4
+"Pajūrio",22,"Aikštės",5
+"Pajūrio",22,"Kauno",6
+"Pajūrio",22,"Jūros",7
+"Pajūrio",22,"Strėvos",13
+"Pajūrio",22,"Sulupės",14
+"Pajūrio",22,"Pamario",40
+"Pajūrio",22,"Rambyno",43
+"Pajūrio",22,"Smiltelės",50
+"Pajūrio",22,"Alksnynės",51
+"Pajūrio",22,"Baltijos",52
+"Aušros",23,"Medelyno",2
+"Aušros",23,"Purienų",3
+"Aušros",23,"J.Basanavičiaus",4
+"Aušros",23,"M.K.Čiurlionio",5
+"Aušros",23,"V.Kudirkos",6
+"Aušros",23,"Vijolių",8
+"Aušros",23,"Jovaro",9
+"Aušros",23,"Parko",10
+"Aušros",23,"Varpo",11
+"Aušros",23,"J.Janonio",13
+"Aušros",23,"Kražių",18
+"Aušros",23,"Ragainės",24
+"Saulės",24,"S.Šalkauskio",15
+"Saulės",24,"Linkuvos",20
+"Saulės",24,"Šimšės",21
+"Saulės",24,"Zoknių",22
+"Saulės",24,"Pabalių",23
+"Saulės",24,"K.Donelaičio",25
+"Saulės",24,"Verduliukų",27
+"Saulės",24,"Tilžės",28
+"Saulės",24,"Žaliūkių",29
+"Saulės",24,"Gegužių",30
+"Saulės",24,"S.Dariaus ir S.Girėno",31
+"Saulės",24,"Rėkyvos",44
+"Dainų",25,"Voveriškių",4
+"Dainų",25,"Gegužių",5
+"Dainų",25,"Aukštelkės",6
+"Dainų",25,"Lieporių",33
+"Dainų",25,"Beržyno",34
+"Dainų",25,"Senojo Bokšto",35
+"Dainų",25,"Dainų",36
+"Dainų",25,"Aido",37
+"Dainų",25,"Lyros",38
+"Dainų",25,"Architektų",39
+"Dainų",25,"Romuvos",40
+"Dainų",25,"Šventupio",41
+"Dainų",25,"Gytarių",42
+"Nevėžio",26,"Geležinkelio",1
+"Nevėžio",26,"Rožių",2
+"Nevėžio",26,"Šiaulių",3
+"Nevėžio",26,"Vienybės",4
+"Nevėžio",26,"Šermukšnių",5
+"Nevėžio",26,"V. Žemkalnio",6
+"Nevėžio",26,"J.Balčikonio",7
+"Nevėžio",26,"Laisvės",8
+"Nevėžio",26,"Poliklinikos",9
+"Nevėžio",26,"Menų mokyklos",10
+"Nevėžio",26,"Danutės",11
+"Nevėžio",26,"Tulpių",12
+"Nevėžio",26,"Ukmergės",25
+"Vakarinė",27,"Pilėnai",13
+"Vakarinė",27,"Nemuno",14
+"Vakarinė",27,"Žvaigždžių",15
+"Vakarinė",27,"Šermuto",16
+"Vakarinė",27,"Parko",17
+"Vakarinė",27,"Dariaus ir Girėno",18
+"Vakarinė",27,"A. Lipniūno",19
+"Vakarinė",27,"Klaipėdos",20
+"Vakarinė",27,"Žvaigždutės",21
+"Vakarinė",27,"Statybininkų",22
+"Vakarinė",27,"Kniaudiškių",23
+"Aukštaitijos",28,"Krekenavos",9
+"Aukštaitijos",28,"Žibartonių",11
+"Aukštaitijos",28,"Naujarodžių",12
+"Aukštaitijos",28,"Linkaučių",13
+"Aukštaitijos",28,"Upytės",14
+"Aukštaitijos",28,"Ėriškių",15
+"Aukštaitijos",28,"Liberiškio",16
+"Aukštaitijos",28,"Berniūnų",17
+"Aukštaitijos",28,"Naujamiesčio",18
+"Aukštaitijos",28,"Gustonių",19
+"Aukštaitijos",28,"Uliūnų",23
+"Aukštaitijos",28,"Ramygalos",24
+"Aukštaitijos",28,"Vandentiekio",24
+"Aukštaitijos",28,"Daniūnų",25
+"Aukštaitijos",28,"J.Miltinio",26
+"Aukštaitijos",28,"Raguvos",26
+"Aukštaitijos",28,"Šilų",27
+"Aukštaitijos",28,"Staniūnų",27
+"Aukštaitijos",28,"Beržų",28
+"Aukštaitijos",28,"Miežiškių",28
+"Aukštaitijos",28,"Nevėžio",29
+"Aukštaitijos",28,"Ramygalos",29
+"Aukštaitijos",28,"Trakiškio",30
+"Aukštaitijos",28,"Šilagalio",32
+"Aukštaitijos",28,"Dembavos",33
+"Aukštaitijos",28,"Velžio",34
+"Aukštaitijos",28,"Liūdynės",35
+"Aukštaitijos",28,"Katinų",36
+"Aukštaitijos",28,"Pažagienių",37
+"Aukštaitijos",28,"Vadoklių",38
+"Aukštaitijos",28,"Jotainių",39
+"Aukštaitijos",28,"Molainių",42
+"Aukštaitijos",28,"Mažėnių",43
+"Marijampolės",29,"Kvietiškio",1
+"Marijampolės",29,"Narto",2
+"Marijampolės",29,"Laikštės",3
+"Marijampolės",29,"Tarpučių",4
+"Marijampolės",29,"Uosupio",5
+"Marijampolės",29,"Mokolų",6
+"Marijampolės",29,"Degučių",7
+"Marijampolės",29,"Suvalkiečių",8
+"Marijampolės",29,"Šaulių",9
+"Marijampolės",29,"Kauno",10
+"Marijampolės",29,"Dariaus ir Girėno",11
+"Marijampolės",29,"Beržų",12
+"Marijampolės",29,"Armino",13
+"Marijampolės",29,"Gedimino",14
+"Marijampolės",29,"Centro",15
+"Alytaus",30,"Amatų",1
+"Alytaus",30,"A.Ramanausko-Vanago",2
+"Alytaus",30,"Centro",3
+"Alytaus",30,"A.Matučio",4
+"Alytaus",30,"Dzūkijos",7
+"Alytaus",30,"Naujoji",8
+"Alytaus",30,"Statybininkų",9
+"Alytaus",30,"Vilties",10
+"Alytaus",30,"Sporto",11
+"Alytaus",30,"Panemunės",17
+"Alytaus",30,"Vidzgirio",18
+"Alytaus",30,"Jotvingių",19
+"Alytaus",30,"Topolių",20
+"Alytaus",30,"Volungės",21
+"Alytaus",30,"Jaunimo",22
+"Alytaus",30,"Jurgiškių",23
+"Alytaus",30,"Likiškėlių",24
+"Gargždų",31,"Gargždų",1
+"Gargždų",31,"Gargždų",2
+"Gargždų",31,"Gargždų",3
+"Gargždų",31,"Gargždų",4
+"Gargždų",31,"Endriejavo",5
+"Gargždų",31,"Judrėnų",6
+"Gargždų",31,"Žadeikių",7
+"Gargždų",31,"Daukšaičių",8
+"Gargždų",31,"Pėžaičių",9
+"Gargždų",31,"Šalpėnų",10
+"Gargždų",31,"Veiviržėnų",11
+"Gargždų",31,"Girininkų",12
+"Gargždų",31,"Lapių",13
+"Gargždų",31,"Tilvikų",14
+"Gargždų",31,"Vėžaičių",15
+"Gargždų",31,"Priekulės",16
+"Gargždų",31,"Agluonėnų",17
+"Gargždų",31,"Dovilų",18
+"Gargždų",31,"Ketvergių",19
+"Gargždų",31,"Šiūparių",20
+"Gargždų",31,"Dauparų",21
+"Gargždų",31,"Kvietinių",22
+"Gargždų",31,"Girkalių",23
+"Gargždų",31,"Kretingalės",24
+"Gargždų",31,"Plikių",25
+"Gargždų",31,"Drevernos",26
+"Gargždų",31,"Kalotės",27
+"Gargždų",31,"Venckų",28
+"Gargždų",31,"Jakų",29
+"Gargždų",31,"Slengių",30
+"Gargždų",31,"Dituvos",31
+"Šilutės - Pagėgių",32,"Mokyklos",1
+"Šilutės - Pagėgių",32,"Pagėgių",1
+"Šilutės - Pagėgių",32,"Panemunės",2
+"Šilutės - Pagėgių",32,"Žalgirio",2
+"Šilutės - Pagėgių",32,"Kentrių",3
+"Šilutės - Pagėgių",32,"Martyno Jankaus",3
+"Šilutės - Pagėgių",32,"Natkiškių",4
+"Šilutės - Pagėgių",32,"Politechnikos",4
+"Šilutės - Pagėgių",32,"Pagėgių kaimiškoji",5
+"Šilutės - Pagėgių",32,"Tilžės",5
+"Šilutės - Pagėgių",32,"Piktupėnų",6
+"Šilutės - Pagėgių",32,"Rusnės",6
+"Šilutės - Pagėgių",32,"Stoniškių",7
+"Šilutės - Pagėgių",32,"Šilgalių",8
+"Šilutės - Pagėgių",32,"Rambyno",9
+"Šilutės - Pagėgių",32,"Pagrynių",10
+"Šilutės - Pagėgių",32,"Vilkyškių",10
+"Šilutės - Pagėgių",32,"Traksėdžių",11
+"Šilutės - Pagėgių",32,"Žukų",11
+"Šilutės - Pagėgių",32,"Jonaičių",12
+"Šilutės - Pagėgių",32,"Juknaičių",13
+"Šilutės - Pagėgių",32,"Pašyšių",14
+"Šilutės - Pagėgių",32,"Grabupių",16
+"Šilutės - Pagėgių",32,"Macikų",17
+"Šilutės - Pagėgių",32,"Naujakurių",18
+"Šilutės - Pagėgių",32,"Žemaitkiemio",19
+"Šilutės - Pagėgių",32,"Barvų",20
+"Šilutės - Pagėgių",32,"Saugų",21
+"Šilutės - Pagėgių",32,"Kintų",22
+"Šilutės - Pagėgių",32,"Vilkyčių",23
+"Šilutės - Pagėgių",32,"Usėnų",29
+"Šilutės - Pagėgių",32,"Lietuvininkų",35
+"Šilutės - Pagėgių",32,"Liepų",36
+"Šilalės - Šilutės",33,"Šilalės",1
+"Šilalės - Šilutės",33,"Balsių",2
+"Šilalės - Šilutės",33,"Bijotų",3
+"Šilalės - Šilutės",33,"Bilionių",4
+"Šilalės - Šilutės",33,"Bytlaukio",5
+"Šilalės - Šilutės",33,"Biržų Lauko",6
+"Šilalės - Šilutės",33,"Didkiemio",7
+"Šilalės - Šilutės",33,"Gardamo",7
+"Šilalės - Šilutės",33,"Gineikių",8
+"Šilalės - Šilutės",33,"Ramučių",8
+"Šilalės - Šilutės",33,"Girdiškės",9
+"Šilalės - Šilutės",33,"Šylių",9
+"Šilalės - Šilutės",33,"Iždonų",10
+"Šilalės - Šilutės",33,"Jomantų",11
+"Šilalės - Šilutės",33,"Jucaičių",12
+"Šilalės - Šilutės",33,"Kaltinėnų",13
+"Šilalės - Šilutės",33,"Kvėdarnos",14
+"Šilalės - Šilutės",33,"Laukuvos",15
+"Šilalės - Šilutės",33,"Obelyno",16
+"Šilalės - Šilutės",33,"Pajūrio",17
+"Šilalės - Šilutės",33,"Pajūralio",18
+"Šilalės - Šilutės",33,"Požerės",19
+"Šilalės - Šilutės",33,"Šiauduvos",20
+"Šilalės - Šilutės",33,"Tenenių",21
+"Šilalės - Šilutės",33,"Traksėdžio",22
+"Šilalės - Šilutės",33,"Upynos",23
+"Šilalės - Šilutės",33,"Stubrių",24
+"Šilalės - Šilutės",33,"Žadeikių",24
+"Šilalės - Šilutės",33,"Ligoninės",25
+"Šilalės - Šilutės",33,"Stemplių",25
+"Šilalės - Šilutės",33,"Palentinio",26
+"Šilalės - Šilutės",33,"Švėkšnos",26
+"Šilalės - Šilutės",33,"Gimnazijos",27
+"Šilalės - Šilutės",33,"Inkaklių",27
+"Šilalės - Šilutės",33,"Katyčių",28
+"Šilalės - Šilutės",33,"Bikavėnų",30
+"Šilalės - Šilutės",33,"Gorainių",31
+"Šilalės - Šilutės",33,"Kivylių",32
+"Šilalės - Šilutės",33,"Vainuto",33
+"Šilalės - Šilutės",33,"Pempiškių",34
+"Šilalės - Šilutės",33,"Žemaičių Naumiesčio",37
+"Šilalės - Šilutės",33,"Degučių",38
+"Šilalės - Šilutės",33,"Naumiesčio kaimiškoji",39
+"Tauragės",34,"Prezidento",1
+"Tauragės",34,"J.Tumo - Vaižganto",2
+"Tauragės",34,"Tauragės",3
+"Tauragės",34,"Dariaus ir Girėno",4
+"Tauragės",34,"Aerodromo",5
+"Tauragės",34,"Moksleivių",6
+"Tauragės",34,"Laisvės",7
+"Tauragės",34,"Melioratorių",9
+"Tauragės",34,"Taurų",10
+"Tauragės",34,"Lauksargių",11
+"Tauragės",34,"Kęsčių",12
+"Tauragės",34,"Sartininkų",13
+"Tauragės",34,"Žygaičių",14
+"Tauragės",34,"Vizbarų",15
+"Tauragės",34,"Aukštupių",16
+"Tauragės",34,"Dapkiškių",17
+"Tauragės",34,"Norkaičių",18
+"Tauragės",34,"Pagramančio",19
+"Tauragės",34,"Mažonų",20
+"Tauragės",34,"Lomių",21
+"Tauragės",34,"Šakviečio",22
+"Tauragės",34,"Juodpetrių",23
+"Tauragės",34,"Batakių",28
+"Tauragės",34,"Eidintų",29
+"Tauragės",34,"Gaurės",30
+"Tauragės",34,"Kunigiškių",31
+"Tauragės",34,"Eičių",32
+"Tauragės",34,"Baltrušaičių",33
+"Tauragės",34,"Dauglaukio",34
+"Tauragės",34,"Drąslaukio",35
+"Plungės - Rietavo",35,"Birutės",1
+"Plungės - Rietavo",35,"Daugėdų",1
+"Plungės - Rietavo",35,"Dariaus ir Girėno",2
+"Plungės - Rietavo",35,"Giliogirio",2
+"Plungės - Rietavo",35,"A.Jucio",3
+"Plungės - Rietavo",35,"Labardžių",3
+"Plungės - Rietavo",35,"Laisvės",4
+"Plungės - Rietavo",35,"Medingėnų",4
+"Plungės - Rietavo",35,"Pelaičių",5
+"Plungės - Rietavo",35,"V.Mačernio",5
+"Plungės - Rietavo",35,"Rietavo",6
+"Plungės - Rietavo",35,"Senamiesčio",6
+"Plungės - Rietavo",35,"A.Vaišvilos",7
+"Plungės - Rietavo",35,"Sauslaukio",7
+"Plungės - Rietavo",35,"Aleksandravo",8
+"Plungės - Rietavo",35,"Tverų",8
+"Plungės - Rietavo",35,"Alsėdžių",9
+"Plungės - Rietavo",35,"Vatušių",9
+"Plungės - Rietavo",35,"Didvyčių",11
+"Plungės - Rietavo",35,"Gegrėnų",12
+"Plungės - Rietavo",35,"Gintališkės",14
+"Plungės - Rietavo",35,"Glaudžių",15
+"Plungės - Rietavo",35,"Grumblių",16
+"Plungės - Rietavo",35,"Karklėnų",17
+"Plungės - Rietavo",35,"Kontaučių",18
+"Plungės - Rietavo",35,"Kulių",19
+"Plungės - Rietavo",35,"Milašaičių",21
+"Plungės - Rietavo",35,"Narvaišių",23
+"Plungės - Rietavo",35,"Nausodžio",24
+"Plungės - Rietavo",35,"Platelių",26
+"Plungės - Rietavo",35,"Stalgėnų",29
+"Plungės - Rietavo",35,"Stanelių",30
+"Plungės - Rietavo",35,"Šateikių",31
+"Plungės - Rietavo",35,"Truikių",32
+"Plungės - Rietavo",35,"Žemaičių Kalvarijos",34
+"Plungės - Rietavo",35,"Žlibinų",35
+"Plungės - Rietavo",35,"Prūsalių",37
+"Kretingos",36,"Parko",1
+"Kretingos",36,"M.Daujoto",2
+"Kretingos",36,"J.Pabrėžos",3
+"Kretingos",36,"Vytauto",4
+"Kretingos",36,"S.Daukanto",5
+"Kretingos",36,"Kretingos",6
+"Kretingos",36,"Salantų",7
+"Kretingos",36,"Darbėnų",8
+"Kretingos",36,"Lazdininkų",9
+"Kretingos",36,"Kašučių",10
+"Kretingos",36,"Kumpikų",11
+"Kretingos",36,"Grūšlaukės",12
+"Kretingos",36,"Mančių",13
+"Kretingos",36,"Laukžemės",14
+"Kretingos",36,"Piliakalnio",15
+"Kretingos",36,"Žvainių",16
+"Kretingos",36,"Laivių",17
+"Kretingos",36,"Juodupėnų",18
+"Kretingos",36,"Erlėnų",19
+"Kretingos",36,"Kalnalio",20
+"Kretingos",36,"Kartenos",21
+"Kretingos",36,"Kalniškių",22
+"Kretingos",36,"Kurmaičių",23
+"Kretingos",36,"Dvaro",24
+"Kretingos",36,"Padvarių",25
+"Kretingos",36,"Kretingsodžio",26
+"Kretingos",36,"Rūdaičių",27
+"Kretingos",36,"Vydmantų",28
+"Kretingos",36,"Kūlupėnų",29
+"Kretingos",36,"Nasrėnų",30
+"Kretingos",36,"Baublių",31
+"Kretingos",36,"Budrių",32
+"Kretingos",36,"Mikoliškių",33
+"Kretingos",36,"Dupulčių",34
+"Kretingos",36,"Raguviškių",35
+"Kretingos",36,"Rubulių",36
+"Kretingos",36,"Jokūbavo",37
+"Kretingos",36,"Valėnų",38
+"Kretingos",36,"Leliūnų",39
+"Skuodo  - Mažeikių",37,"Skuodo",1
+"Skuodo  - Mažeikių",37,"Vilniaus",2
+"Skuodo  - Mažeikių",37,"Laisvės",3
+"Skuodo  - Mažeikių",37,"Aleksandrijos",4
+"Skuodo  - Mažeikių",37,"Kaukolikų",5
+"Skuodo  - Mažeikių",37,"Gėsalų",6
+"Skuodo  - Mažeikių",37,"Barstyčių",7
+"Skuodo  - Mažeikių",37,"Ylakių",9
+"Skuodo  - Mažeikių",37,"Trumplaukės",10
+"Skuodo  - Mažeikių",37,"Vižančių",11
+"Skuodo  - Mažeikių",37,"Pašilės",12
+"Skuodo  - Mažeikių",37,"Sedos",13
+"Skuodo  - Mažeikių",37,"Lenkimų",14
+"Skuodo  - Mažeikių",37,"Žemalės",14
+"Skuodo  - Mažeikių",37,"Mosėdžio",15
+"Skuodo  - Mažeikių",37,"Šerkšnėnų",15
+"Skuodo  - Mažeikių",37,"Plinkšių",16
+"Skuodo  - Mažeikių",37,"Šauklių",16
+"Skuodo  - Mažeikių",37,"Notėnų",17
+"Skuodo  - Mažeikių",37,"Tirkšlių",17
+"Skuodo  - Mažeikių",37,"Balėnų",18
+"Skuodo  - Mažeikių",37,"Šliktinės",18
+"Skuodo  - Mažeikių",37,"Daukšių",19
+"Skuodo  - Mažeikių",37,"Užlieknės",19
+"Skuodo  - Mažeikių",37,"Buknaičių",20
+"Skuodo  - Mažeikių",37,"D.Rūšupių",20
+"Skuodo  - Mažeikių",37,"Leckavos",21
+"Skuodo  - Mažeikių",37,"Luknės",21
+"Skuodo  - Mažeikių",37,"Auksūdžio",22
+"Skuodo  - Mažeikių",37,"M.Rūšupių",22
+"Skuodo  - Mažeikių",37,"Dagių",23
+"Skuodo  - Mažeikių",37,"Šačių",23
+"Skuodo  - Mažeikių",37,"Renavo",24
+"Skuodo  - Mažeikių",37,"Rukų",24
+"Skuodo  - Mažeikių",37,"Pikelių",25
+"Skuodo  - Mažeikių",37,"Račalių",26
+"Skuodo  - Mažeikių",37,"Ukrinų",27
+"Skuodo  - Mažeikių",37,"Židikų",28
+"Skuodo  - Mažeikių",37,"Urvikių",29
+"Skuodo  - Mažeikių",37,"Bugenių",30
+"Skuodo  - Mažeikių",37,"Purvėnų",32
+"Skuodo  - Mažeikių",37,"Laižuvos",33
+"Skuodo  - Mažeikių",37,"Lūšės",34
+"Skuodo  - Mažeikių",37,"Pievėnų",35
+"Mažeikių",38,"M.Račkausko",1
+"Mažeikių",38,"Senamieščio",2
+"Mažeikių",38,"Kęstučio",3
+"Mažeikių",38,"Gabijos",4
+"Mažeikių",38,"Žemaitijos",5
+"Mažeikių",38,"Reivyčių",6
+"Mažeikių",38,"Pavasario",7
+"Mažeikių",38,"Naftininkų",8
+"Mažeikių",38,"Pavenčių",9
+"Mažeikių",38,"Sodų",10
+"Mažeikių",38,"Kalnėnų",11
+"Mažeikių",38,"Ventos",12
+"Mažeikių",38,"Krakių",31
+"Mažeikių",38,"Kapėnų",36
+"Mažeikių",38,"Palnosų",37
+"Mažeikių",38,"Viekšnių",38
+"Akmenės - Joniškio",39,"Senamiesčio",1
+"Akmenės - Joniškio",39,"V. Kudirkos",2
+"Akmenės - Joniškio",39,"Respublikos",3
+"Akmenės - Joniškio",39,"Ramučių",4
+"Akmenės - Joniškio",39,"Žagarės",4
+"Akmenės - Joniškio",39,"Agluonų",5
+"Akmenės - Joniškio",39,"Akmenės 1-oji",6
+"Akmenės - Joniškio",39,"Alkiškių",7
+"Akmenės - Joniškio",39,"Daunoriškės",7
+"Akmenės - Joniškio",39,"Daubiškių",8
+"Akmenės - Joniškio",39,"Daukšių",8
+"Akmenės - Joniškio",39,"Gaižaičių",9
+"Akmenės - Joniškio",39,"Kairiškių",9
+"Akmenės - Joniškio",39,"Gulbinų",10
+"Akmenės - Joniškio",39,"Gataučių",11
+"Akmenės - Joniškio",39,"Kivylių",11
+"Akmenės - Joniškio",39,"Kalnelio",12
+"Akmenės - Joniškio",39,"Kruopių",12
+"Akmenės - Joniškio",39,"Jučių",13
+"Akmenės - Joniškio",39,"Šapnagių",14
+"Akmenės - Joniškio",39,"Pavenčio",15
+"Akmenės - Joniškio",39,"Papilės",16
+"Akmenės - Joniškio",39,"Linkaičių",17
+"Akmenės - Joniškio",39,"Luokavos",17
+"Akmenės - Joniškio",39,"Maldenių",18
+"Akmenės - Joniškio",39,"Sablauskių",18
+"Akmenės - Joniškio",39,"Ventos",19
+"Akmenės - Joniškio",39,"Kalniškių",20
+"Akmenės - Joniškio",39,"Rudiškių",20
+"Akmenės - Joniškio",39,"Eglesių",21
+"Akmenės - Joniškio",39,"Klykolių",22
+"Akmenės - Joniškio",39,"Skaistgirio",22
+"Akmenės - Joniškio",39,"Akmenės 2-oji",23
+"Akmenės - Joniškio",39,"Stungių",23
+"Akmenės - Joniškio",39,"Naujamiesčio",24
+"Akmenės - Joniškio",39,"Stupurų",24
+"Akmenės - Joniškio",39,"Jakiškių",28
+"Akmenės - Joniškio",39,"Jauniūnų",29
+"Akmenės - Joniškio",39,"Maželių",30
+"Akmenės - Joniškio",39,"Mekių",31
+"Akmenės - Joniškio",39,"Jurdaičių",34
+"Telšių",40,"Lygumų",1
+"Telšių",40,"Masčio",2
+"Telšių",40,"Respublikos",3
+"Telšių",40,"Žemaitės",4
+"Telšių",40,"Muziejaus",5
+"Telšių",40,"Šviesos",6
+"Telšių",40,"Kalno",7
+"Telšių",40,"Kęstučio",8
+"Telšių",40,"Sedos",9
+"Telšių",40,"P.Cvirkos",10
+"Telšių",40,"Degaičių",11
+"Telšių",40,"Eigirdžių",12
+"Telšių",40,"Buožėnų",13
+"Telšių",40,"Gedrimų",14
+"Telšių",40,"Nevarėnų",15
+"Telšių",40,"Mitkaičių",16
+"Telšių",40,"Nerimdaičių",17
+"Telšių",40,"Ubiškės",18
+"Telšių",40,"Tryškių",19
+"Telšių",40,"Kaunatavos",20
+"Telšių",40,"Upynos",21
+"Telšių",40,"Kirklių",22
+"Telšių",40,"Luokės",23
+"Telšių",40,"Viekšnalių",24
+"Telšių",40,"Kuršų",25
+"Telšių",40,"Janapolės",26
+"Telšių",40,"Varnių",28
+"Telšių",40,"Žarėnų",29
+"Telšių",40,"Ryškėnų",30
+"Telšių",40,"Viešvėnų",31
+"Telšių",40,"Vembūtų",32
+"Telšių",40,"Rainių",33
+"Kelmės",41,"Budraičių",1
+"Kelmės",41,"Butkiškės",2
+"Kelmės",41,"Dubėnų",3
+"Kelmės",41,"Gailių",4
+"Kelmės",41,"Janaučių",6
+"Kelmės",41,"Junkilų",7
+"Kelmės",41,"Karklėnų",8
+"Kelmės",41,"Centro",9
+"Kelmės",41,"A.Mackevičiaus",10
+"Kelmės",41,"Kalno",11
+"Kelmės",41,"Kiaunorių",12
+"Kelmės",41,"Kolainių",13
+"Kelmės",41,"Kražių",14
+"Kelmės",41,"Kukečių",15
+"Kelmės",41,"Laugalio",16
+"Kelmės",41,"Liolių",17
+"Kelmės",41,"Lupikų",18
+"Kelmės",41,"Maironių",19
+"Kelmės",41,"Minupių",20
+"Kelmės",41,"Mockaičių",21
+"Kelmės",41,"Pagryžuvio",22
+"Kelmės",41,"Pakėvio",23
+"Kelmės",41,"Pakražančio",24
+"Kelmės",41,"Pašiaušės",25
+"Kelmės",41,"Pašilėnų",26
+"Kelmės",41,"Pašilės",27
+"Kelmės",41,"Pavandenės",27
+"Kelmės",41,"Pavėžupio",28
+"Kelmės",41,"Petrališkės",29
+"Kelmės",41,"Stulgių",30
+"Kelmės",41,"Šaltenių",31
+"Kelmės",41,"Šaukėnų",32
+"Kelmės",41,"Šedbarų",33
+"Kelmės",41,"Durpyno",34
+"Kelmės",41,"Tytuvėnų",35
+"Kelmės",41,"Užvenčio",36
+"Kelmės",41,"Vaiguvos",37
+"Kelmės",41,"Valpainių",38
+"Kelmės",41,"Verpenos",39
+"Kelmės",41,"Vidsodžio",40
+"Kelmės",41,"Žalpių",41
+"Raseinių",42,"Prabaudos",1
+"Raseinių",42,"Stonų",2
+"Raseinių",42,"Centro",3
+"Raseinių",42,"Pramonės",4
+"Raseinių",42,"Kalnujų",5
+"Raseinių",42,"Pašaltuonio",6
+"Raseinių",42,"Sujainių",7
+"Raseinių",42,"Slabados",8
+"Raseinių",42,"Viduklės",9
+"Raseinių",42,"Paupio",10
+"Raseinių",42,"Pryšmančių",11
+"Raseinių",42,"Nemakščių",12
+"Raseinių",42,"Kryžkalnio",13
+"Raseinių",42,"Ariogalos",14
+"Raseinių",42,"Šarkių",15
+"Raseinių",42,"Gėluvos",16
+"Raseinių",42,"Dainavos",17
+"Raseinių",42,"Butkiškės",18
+"Raseinių",42,"Verėduvos",19
+"Raseinių",42,"Milašaičių",20
+"Raseinių",42,"Paliepių",21
+"Raseinių",42,"Pramedžiavos",22
+"Raseinių",42,"Girkalnio",23
+"Raseinių",42,"Požėčių",24
+"Raseinių",42,"Grajauskų",25
+"Raseinių",42,"Betygalos",26
+"Raseinių",42,"Berteškių",27
+"Raseinių",42,"Ilgižių",28
+"Raseinių",42,"Agelaičių",29
+"Raseinių",42,"Kaulakių",30
+"Raseinių",42,"Skirmantiškės",31
+"Raseinių",42,"Vosiliškio",32
+"Raseinių",42,"Šiluvos",33
+"Raseinių",42,"Lyduvėnų",34
+"Raseinių",42,"Katauskių",35
+"Raseinių",42,"Žaiginio",36
+"Raseinių",42,"Ramonų",37
+"Raseinių",42,"Gruzdiškės",38
+"Raseinių",42,"Norgėlų",39
+"Raseinių",42,"Lenkelių",40
+"Raseinių",42,"Gabšių",41
+"Raseinių",42,"Bebirvos",42
+"Raseinių",42,"Alėjų",43
+"Raseinių",42,"Gervinės",44
+"Raseinių",42,"Melioratorių",45
+"Raseinių",42,"Didžiulių",46
+"Kėdainių",43,"Aristavos",2
+"Kėdainių",43,"Babėnų",4
+"Kėdainių",43,"Vikaičių",6
+"Kėdainių",43,"Dotnuvos",7
+"Kėdainių",43,"Gudžiūnų",8
+"Kėdainių",43,"Kalnaberžės",10
+"Kėdainių",43,"Kaplių",11
+"Kėdainių",43,"Keleriškių",12
+"Kėdainių",43,"Lančiūnavos",16
+"Kėdainių",43,"Liaudies",18
+"Kėdainių",43,"Mantviliškio",19
+"Kėdainių",43,"Naujoji",22
+"Kėdainių",43,"Miegėnų",23
+"Kėdainių",43,"Okainių",25
+"Kėdainių",43,"Pagirių",27
+"Kėdainių",43,"Parko",29
+"Kėdainių",43,"Pergalės",33
+"Kėdainių",43,"Petkūnų",35
+"Kėdainių",43,"Radvilų",36
+"Kėdainių",43,"Senamiesčio",38
+"Kėdainių",43,"Sirutiškio",39
+"Kėdainių",43,"Smilgos",41
+"Kėdainių",43,"Statybininkų",42
+"Kėdainių",43,"Surviliškio",43
+"Kėdainių",43,"Šėtos",44
+"Kėdainių",43,"Šlapaberžės",45
+"Kėdainių",43,"Taikos",46
+"Kėdainių",43,"Tiskūnų",47
+"Kėdainių",43,"Truskavos",48
+"Kėdainių",43,"Vilainių",50
+"Kėdainių",43,"Žemaitės",51
+"Kėdainių",43,"Akademijos",52
+"Kėdainių",43,"Beržų",53
+"Kėdainių",43,"Dotnuvėlės",54
+"Radviliškio",44,"Acokavų",1
+"Radviliškio",44,"Alksniupių",2
+"Radviliškio",44,"Aukštelkų",3
+"Radviliškio",44,"Baisogalos",4
+"Radviliškio",44,"Beinoravos",5
+"Radviliškio",44,"Butėnų",6
+"Radviliškio",44,"Daugėlaičių",7
+"Radviliškio",44,"Gražionių",8
+"Radviliškio",44,"Gražiškių",9
+"Radviliškio",44,"Grinkiškio",10
+"Radviliškio",44,"Kairėnų",12
+"Radviliškio",44,"Karčemų",13
+"Radviliškio",44,"Kutiškių",14
+"Radviliškio",44,"Miežaičių",15
+"Radviliškio",44,"Minaičių",16
+"Radviliškio",44,"Pakiršinio",17
+"Radviliškio",44,"Palonų",18
+"Radviliškio",44,"Papušynio",19
+"Radviliškio",44,"Pašušvio",20
+"Radviliškio",44,"Pavartyčių",21
+"Radviliškio",44,"Pociūnų",22
+"Radviliškio",44,"Pociūnėlių",23
+"Radviliškio",44,"Polekėlės",24
+"Radviliškio",44,"Vaižganto",25
+"Radviliškio",44,"Lituanikos",26
+"Radviliškio",44,"Kudirkos",27
+"Radviliškio",44,"Rūmų",28
+"Radviliškio",44,"Lizdeikos",29
+"Radviliškio",44,"Raudondvario",30
+"Radviliškio",44,"Sidabravo",31
+"Radviliškio",44,"Skėmių",32
+"Radviliškio",44,"Šaukoto",33
+"Radviliškio",44,"Šeduvos",34
+"Radviliškio",44,"Mokyklos",35
+"Radviliškio",44,"Šiaulėnų",36
+"Radviliškio",44,"Šniūraičių",37
+"Radviliškio",44,"Tyrulių",38
+"Radviliškio",44,"Vadaktų",39
+"Radviliškio",44,"Vaitiekūnų",40
+"Radviliškio",44,"Vėriškių",41
+"Radviliškio",44,"Žeimių",43
+"Radviliškio",44,"Eibariškių",44
+"Šiaulių kaimiškoji",45,"Ginkūnų",1
+"Šiaulių kaimiškoji",45,"Bridų",2
+"Šiaulių kaimiškoji",45,"Vijolių",3
+"Šiaulių kaimiškoji",45,"Pakapės",7
+"Šiaulių kaimiškoji",45,"Einoraičių",8
+"Šiaulių kaimiškoji",45,"Bubių",9
+"Šiaulių kaimiškoji",45,"Gilvyčių",10
+"Šiaulių kaimiškoji",45,"Kurtuvėnų",11
+"Šiaulių kaimiškoji",45,"Bazilionų",12
+"Šiaulių kaimiškoji",45,"Kairių",13
+"Šiaulių kaimiškoji",45,"Šilėnų",14
+"Šiaulių kaimiškoji",45,"Žadžiūnų",15
+"Šiaulių kaimiškoji",45,"Meškuičių",16
+"Šiaulių kaimiškoji",45,"Naisių",17
+"Šiaulių kaimiškoji",45,"Gruzdžių",18
+"Šiaulių kaimiškoji",45,"Šiupylių",19
+"Šiaulių kaimiškoji",45,"Kužių",20
+"Šiaulių kaimiškoji",45,"Gilaičių",21
+"Šiaulių kaimiškoji",45,"Verbūnų",22
+"Šiaulių kaimiškoji",45,"Smilgių",23
+"Šiaulių kaimiškoji",45,"L. Ivinskio",24
+"Šiaulių kaimiškoji",45,"Centro",25
+"Šiaulių kaimiškoji",45,"Gedimino",26
+"Šiaulių kaimiškoji",45,"Pušyno",27
+"Šiaulių kaimiškoji",45,"Pavenčių",28
+"Šiaulių kaimiškoji",45,"Daugėlių",29
+"Šiaulių kaimiškoji",45,"Micaičių",30
+"Šiaulių kaimiškoji",45,"Varputėnų",31
+"Šiaulių kaimiškoji",45,"Gergždelių",32
+"Šiaulių kaimiškoji",45,"Pakumulšių",33
+"Šiaulių kaimiškoji",45,"Drąsučių",34
+"Šiaulių kaimiškoji",45,"Romučių",35
+"Šiaulių kaimiškoji",45,"Sauginių",36
+"Šiaulių kaimiškoji",45,"Raudėnų",37
+"Šiaulių kaimiškoji",45,"Dirvonėnų",38
+"Šiaulių kaimiškoji",45,"Šakynos",39
+"Šiaulių kaimiškoji",45,"Žarėnų",40
+"Pakruojo - Joniškio",46,"Balsių",1
+"Pakruojo - Joniškio",46,"Žemaičių",1
+"Pakruojo - Joniškio",46,"Bardiškių",2
+"Pakruojo - Joniškio",46,"Livonijos",2
+"Pakruojo - Joniškio",46,"Degesių",3
+"Pakruojo - Joniškio",46,"V.Kudirkos",3
+"Pakruojo - Joniškio",46,"Degučių",4
+"Pakruojo - Joniškio",46,"Bariūnų",5
+"Pakruojo - Joniškio",46,"Draudelių",5
+"Pakruojo - Joniškio",46,"Darginių",6
+"Pakruojo - Joniškio",46,"Dvariškių",6
+"Pakruojo - Joniškio",46,"Gačionių",7
+"Pakruojo - Joniškio",46,"Gedučių",8
+"Pakruojo - Joniškio",46,"Guostagalio",9
+"Pakruojo - Joniškio",46,"Gasčiūnų",10
+"Pakruojo - Joniškio",46,"Grikpėdžių",10
+"Pakruojo - Joniškio",46,"Klovainių",11
+"Pakruojo - Joniškio",46,"Kalpokų",12
+"Pakruojo - Joniškio",46,"Kauksnųjų",13
+"Pakruojo - Joniškio",46,"Plikiškių",13
+"Pakruojo - Joniškio",46,"Kepalių",14
+"Pakruojo - Joniškio",46,"Laipuškių",14
+"Pakruojo - Joniškio",46,"Kirnaičių",15
+"Pakruojo - Joniškio",46,"Linksmučių",15
+"Pakruojo - Joniškio",46,"Kriukų",16
+"Pakruojo - Joniškio",46,"Linkuvos",16
+"Pakruojo - Joniškio",46,"Linų",17
+"Pakruojo - Joniškio",46,"Lygumų",18
+"Pakruojo - Joniškio",46,"Mažeikonių",19
+"Pakruojo - Joniškio",46,"Mindaugių",19
+"Pakruojo - Joniškio",46,"Mikniūnų",20
+"Pakruojo - Joniškio",46,"Medikonių",21
+"Pakruojo - Joniškio",46,"Satkūnų",21
+"Pakruojo - Joniškio",46,"Mikoliškio",22
+"Pakruojo - Joniškio",46,"Naujamiesčio",23
+"Pakruojo - Joniškio",46,"Pakruojo",24
+"Pakruojo - Joniškio",46,"Bučiūnų",25
+"Pakruojo - Joniškio",46,"Pamūšio",25
+"Pakruojo - Joniškio",46,"Lieporų",26
+"Pakruojo - Joniškio",46,"Pašvitinio",26
+"Pakruojo - Joniškio",46,"Blauzdžiūnų",27
+"Pakruojo - Joniškio",46,"Peleniškių",27
+"Pakruojo - Joniškio",46,"Preičiūnų",28
+"Pakruojo - Joniškio",46,"Plaučiškių",30
+"Pakruojo - Joniškio",46,"Rimkūnų",31
+"Pakruojo - Joniškio",46,"Rozalimo",32
+"Pakruojo - Joniškio",46,"Skilvionių",32
+"Pakruojo - Joniškio",46,"Stačiūnų",33
+"Pakruojo - Joniškio",46,"Ziniūnų",33
+"Pakruojo - Joniškio",46,"Sosdvario",34
+"Pakruojo - Joniškio",46,"Šukionių",35
+"Pakruojo - Joniškio",46,"Triškonių",36
+"Pakruojo - Joniškio",46,"Ūdekų",37
+"Pakruojo - Joniškio",46,"Žeimelio",38
+"Pakruojo - Joniškio",46,"Žvirblonių",39
+"Pasvalio - Panevėžio",47,"Geležių",1
+"Pasvalio - Panevėžio",47,"Joniškėlio",1
+"Pasvalio - Panevėžio",47,"P.Vileišio",2
+"Pasvalio - Panevėžio",47,"Tiltagalių",2
+"Pasvalio - Panevėžio",47,"Kalno",3
+"Pasvalio - Panevėžio",47,"Karsakiškio",3
+"Pasvalio - Panevėžio",47,"Paliūniškio",4
+"Pasvalio - Panevėžio",47,"Vilniaus",4
+"Pasvalio - Panevėžio",47,"Daujėnų",5
+"Pasvalio - Panevėžio",47,"Piniavos",5
+"Pasvalio - Panevėžio",47,"Bernatonių",6
+"Pasvalio - Panevėžio",47,"Girsūdų",6
+"Pasvalio - Panevėžio",47,"Paįstrio",7
+"Pasvalio - Panevėžio",47,"Švobiškio",7
+"Pasvalio - Panevėžio",47,"Daukniūnų",8
+"Pasvalio - Panevėžio",47,"Norgėlų",8
+"Pasvalio - Panevėžio",47,"Meškalaukio",9
+"Pasvalio - Panevėžio",47,"Nakiškių",10
+"Pasvalio - Panevėžio",47,"Narteikių",11
+"Pasvalio - Panevėžio",47,"Krinčino",12
+"Pasvalio - Panevėžio",47,"Gulbinėnų",13
+"Pasvalio - Panevėžio",47,"Pajiešmenių",14
+"Pasvalio - Panevėžio",47,"Papyvesių",15
+"Pasvalio - Panevėžio",47,"Talačkonių",16
+"Pasvalio - Panevėžio",47,"Ustukių",17
+"Pasvalio - Panevėžio",47,"Valakėlių",18
+"Pasvalio - Panevėžio",47,"Pumpėnų",19
+"Pasvalio - Panevėžio",47,"Jurgėnų",20
+"Pasvalio - Panevėžio",47,"Smilgių",20
+"Pasvalio - Panevėžio",47,"Kriklinių",21
+"Pasvalio - Panevėžio",47,"Sujėtų",21
+"Pasvalio - Panevėžio",47,"Perekšlių",22
+"Pasvalio - Panevėžio",47,"Rinkūnų",22
+"Pasvalio - Panevėžio",47,"Pušaloto",23
+"Pasvalio - Panevėžio",47,"Mikoliškio",24
+"Pasvalio - Panevėžio",47,"Deglėnų",25
+"Pasvalio - Panevėžio",47,"Kiemėnų",26
+"Pasvalio - Panevėžio",47,"Namišių",27
+"Pasvalio - Panevėžio",47,"Raubonių",28
+"Pasvalio - Panevėžio",47,"Saločių",29
+"Pasvalio - Panevėžio",47,"Žadeikonių",30
+"Pasvalio - Panevėžio",47,"Paežerio",31
+"Pasvalio - Panevėžio",47,"Žilpamūšio",31
+"Pasvalio - Panevėžio",47,"Grūžių",32
+"Pasvalio - Panevėžio",47,"Nairių",33
+"Pasvalio - Panevėžio",47,"Tetirvinų",34
+"Pasvalio - Panevėžio",47,"Vaškų",35
+"Pasvalio - Panevėžio",47,"Skaistgirių",44
+"Biržų - Kupiškio",48,"Atžalyno",1
+"Biržų - Kupiškio",48,"Alizavos",2
+"Biržų - Kupiškio",48,"Rotušės",2
+"Biržų - Kupiškio",48,"Antašavos",3
+"Biržų - Kupiškio",48,"Aušros",3
+"Biržų - Kupiškio",48,"Aukštupėnų",4
+"Biržų - Kupiškio",48,"Saulės",4
+"Biržų - Kupiškio",48,"Kaštonų",5
+"Biržų - Kupiškio",48,"Anglininkų",6
+"Biržų - Kupiškio",48,"Kratiškių",7
+"Biržų - Kupiškio",48,"Račiupėnų",7
+"Biržų - Kupiškio",48,"Kupos",8
+"Biržų - Kupiškio",48,"Nausėdžių",8
+"Biržų - Kupiškio",48,"Obelaukių",9
+"Biržų - Kupiškio",48,"Senamiesčio",9
+"Biržų - Kupiškio",48,"Rinkuškių",10
+"Biržų - Kupiškio",48,"Germaniškio",11
+"Biržų - Kupiškio",48,"Nemunėlio Radviliškio",12
+"Biržų - Kupiškio",48,"Pučiakalnės",13
+"Biržų - Kupiškio",48,"Kirdonių",14
+"Biržų - Kupiškio",48,"Pabiržės",15
+"Biržų - Kupiškio",48,"Paketurių",15
+"Biržų - Kupiškio",48,"Pačeriaukštės",16
+"Biržų - Kupiškio",48,"Pasvaliečių",17
+"Biržų - Kupiškio",48,"Salamiesčio",17
+"Biržų - Kupiškio",48,"Juostaviečių",18
+"Biržų - Kupiškio",48,"Einorių",19
+"Biržų - Kupiškio",48,"Kraštų",20
+"Biržų - Kupiškio",48,"Kupreliškio",21
+"Biržų - Kupiškio",48,"Kvetkų",22
+"Biržų - Kupiškio",48,"Papilio",23
+"Biržų - Kupiškio",48,"Virbališkių",23
+"Biržų - Kupiškio",48,"Medeikių",24
+"Biržų - Kupiškio",48,"Žaidelių",24
+"Biržų - Kupiškio",48,"Parovėjos",25
+"Biržų - Kupiškio",48,"Užušilių",26
+"Biržų - Kupiškio",48,"Ančiškių",27
+"Biržų - Kupiškio",48,"Jasiuliškių",28
+"Biržų - Kupiškio",48,"Meilūnų",29
+"Biržų - Kupiškio",48,"Ramongalių",30
+"Biržų - Kupiškio",48,"Šukionių",31
+"Biržų - Kupiškio",48,"Vabalninko",32
+"Anykščių - Kupiškio",49,"Adomynės",1
+"Anykščių - Kupiškio",49,"Senamiesčio",1
+"Anykščių - Kupiškio",49,"Janydžių",2
+"Anykščių - Kupiškio",49,"Ažupiečių",3
+"Anykščių - Kupiškio",49,"Liudiškių",4
+"Anykščių - Kupiškio",49,"Biliūnų",5
+"Anykščių - Kupiškio",49,"Piktagalio",5
+"Anykščių - Kupiškio",49,"Ažuožerių",6
+"Anykščių - Kupiškio",49,"Juodpėnų",6
+"Anykščių - Kupiškio",49,"Elmos",7
+"Anykščių - Kupiškio",49,"Burbiškio",8
+"Anykščių - Kupiškio",49,"Šlavėnų",9
+"Anykščių - Kupiškio",49,"Debeikių",10
+"Anykščių - Kupiškio",49,"Laičių",10
+"Anykščių - Kupiškio",49,"Leliūnų",11
+"Anykščių - Kupiškio",49,"Lukonių",11
+"Anykščių - Kupiškio",49,"Kavarsko",12
+"Anykščių - Kupiškio",49,"Migonių",12
+"Anykščių - Kupiškio",49,"Dabužių",13
+"Anykščių - Kupiškio",49,"Naivių",13
+"Anykščių - Kupiškio",49,"Janušavos",14
+"Anykščių - Kupiškio",49,"Noriūnų",14
+"Anykščių - Kupiškio",49,"Svirnų",15
+"Anykščių - Kupiškio",49,"Rudilių",16
+"Anykščių - Kupiškio",49,"Šerių",16
+"Anykščių - Kupiškio",49,"Šovenių",17
+"Anykščių - Kupiškio",49,"Kurklių",18
+"Anykščių - Kupiškio",49,"Skapiškio",18
+"Anykščių - Kupiškio",49,"Kurklių II k.",19
+"Anykščių - Kupiškio",49,"Skverbų",19
+"Anykščių - Kupiškio",49,"Staškūniškio",20
+"Anykščių - Kupiškio",49,"Subačiaus",20
+"Anykščių - Kupiškio",49,"Katlėrių",21
+"Anykščių - Kupiškio",49,"Šepetos",21
+"Anykščių - Kupiškio",49,"Šimonių",22
+"Anykščių - Kupiškio",49,"Skiemonių",22
+"Anykščių - Kupiškio",49,"Mačionių",23
+"Anykščių - Kupiškio",49,"Daujočių",24
+"Anykščių - Kupiškio",49,"Aulelių",25
+"Anykščių - Kupiškio",49,"Svėdasų",26
+"Anykščių - Kupiškio",49,"Vaitkūnų",27
+"Anykščių - Kupiškio",49,"Troškūnų",28
+"Anykščių - Kupiškio",49,"Vašuokėnų",30
+"Anykščių - Kupiškio",49,"Surdegio",31
+"Anykščių - Kupiškio",49,"Nausodės",32
+"Anykščių - Kupiškio",49,"Raguvėlės",33
+"Anykščių - Kupiškio",49,"Levaniškių",34
+"Anykščių - Kupiškio",49,"Traupio",35
+"Anykščių - Kupiškio",49,"Andrioniškio",36
+"Anykščių - Kupiškio",49,"Viešintų",37
+"Rokiškio",50,"J.Tumo-Vaižganto",1
+"Rokiškio",50,"Senamiesčio",2
+"Rokiškio",50,"Mikrorajono",3
+"Rokiškio",50,"J.Tūbelio",4
+"Rokiškio",50,"Respublikos",5
+"Rokiškio",50,"Bajorų",6
+"Rokiškio",50,"Čedasų",7
+"Rokiškio",50,"Kavoliškio",8
+"Rokiškio",50,"Skemų",9
+"Rokiškio",50,"Žiobiškio",10
+"Rokiškio",50,"Kazliškio",11
+"Rokiškio",50,"Konstantinavos",12
+"Rokiškio",50,"Obelių",13
+"Rokiškio",50,"Pandėlio",14
+"Rokiškio",50,"Juodupės",15
+"Rokiškio",50,"Juodupės kaimiškoji",16
+"Rokiškio",50,"Lukštų",18
+"Rokiškio",50,"Jūžintų",19
+"Rokiškio",50,"Laibgalių",20
+"Rokiškio",50,"Sėlynės",21
+"Rokiškio",50,"Kamajų",22
+"Rokiškio",50,"Aukštakalnių",23
+"Rokiškio",50,"Duokiškio",24
+"Rokiškio",50,"Kalvių",25
+"Rokiškio",50,"Salų",26
+"Rokiškio",50,"Kriaunų",27
+"Rokiškio",50,"Lašų",28
+"Rokiškio",50,"Kairelių",29
+"Rokiškio",50,"Pakriaunių",30
+"Rokiškio",50,"Aleksandravėlės",31
+"Rokiškio",50,"Zarinkiškių",32
+"Rokiškio",50,"Antanašės",33
+"Rokiškio",50,"Obelių",34
+"Rokiškio",50,"Suvainiškio",35
+"Rokiškio",50,"Sriubiškių",37
+"Rokiškio",50,"Lailūnų",38
+"Rokiškio",50,"Panemunio",40
+"Rokiškio",50,"Stoties",41
+"Rokiškio",50,"Panemunėlio",42
+"Utenos",51,"Aukštakalnio",1
+"Utenos",51,"Taikos",2
+"Utenos",51,"Aušros",3
+"Utenos",51,"Dauniškio",4
+"Utenos",51,"Vyturių",5
+"Utenos",51,"Centro",6
+"Utenos",51,"Basanavičiaus",7
+"Utenos",51,"Ąžuolijos",8
+"Utenos",51,"Krašuonos",9
+"Utenos",51,"Daugailių",10
+"Utenos",51,"Radeikių",11
+"Utenos",51,"Juknėnų",12
+"Utenos",51,"Kuktiškių",13
+"Utenos",51,"Leliūnų",14
+"Utenos",51,"Antalgės",15
+"Utenos",51,"Pakalnių",16
+"Utenos",51,"Saldutiškio",17
+"Utenos",51,"Kirdeikių",18
+"Utenos",51,"Sudeikių",19
+"Utenos",51,"Sirutėnų",20
+"Utenos",51,"Tauragnų",21
+"Utenos",51,"Pačkėnų",22
+"Utenos",51,"Biliakiemio",23
+"Utenos",51,"Vaikutėnų",24
+"Utenos",51,"Užpalių",25
+"Utenos",51,"Kaniukų",26
+"Utenos",51,"Vilučių",27
+"Utenos",51,"Vyžuonų",28
+"Utenos",51,"Naujasodžio",30
+"Utenos",51,"Smėlio",31
+"Zarasų - Visagino",52,"Antalieptės",1
+"Zarasų - Visagino",52,"Draugystės",1
+"Zarasų - Visagino",52,"Antazavės",2
+"Zarasų - Visagino",52,"Gerosios Vilties",2
+"Zarasų - Visagino",52,"Sedulinos",3
+"Zarasų - Visagino",52,"Šniukštų",3
+"Zarasų - Visagino",52,"Atgimimo",4
+"Zarasų - Visagino",52,"Baibių",4
+"Zarasų - Visagino",52,"Ateities",5
+"Zarasų - Visagino",52,"Degučių",5
+"Zarasų - Visagino",52,"Atžalyno",6
+"Zarasų - Visagino",52,"Avilių",6
+"Zarasų - Visagino",52,"Imbrado",7
+"Zarasų - Visagino",52,"Orbitos",7
+"Zarasų - Visagino",52,"Biržūnų",8
+"Zarasų - Visagino",52,"Kosmoso",8
+"Zarasų - Visagino",52,"Salako",9
+"Zarasų - Visagino",52,"Taikos",9
+"Zarasų - Visagino",52,"Samanių",10
+"Zarasų - Visagino",52,"Vilties",10
+"Zarasų - Visagino",52,"Bangos",11
+"Zarasų - Visagino",52,"Suvieko",11
+"Zarasų - Visagino",52,"Auksinio gaidelio",12
+"Zarasų - Visagino",52,"Dimitriškių",12
+"Zarasų - Visagino",52,"Magučių",13
+"Zarasų - Visagino",52,"Vilties šaltinio",13
+"Zarasų - Visagino",52,"Gintarėlio",14
+"Zarasų - Visagino",52,"Šaulių",14
+"Zarasų - Visagino",52,"Ąžuoliuko",15
+"Zarasų - Visagino",52,"Štadvilių",15
+"Zarasų - Visagino",52,"Kimbartiškės",16
+"Zarasų - Visagino",52,"Žiburio",16
+"Zarasų - Visagino",52,"Smalvų",17
+"Zarasų - Visagino",52,"Turmanto",18
+"Zarasų - Visagino",52,"Dusetų",19
+"Zarasų - Visagino",52,"Sadūnų",20
+"Zarasų - Visagino",52,"Užtiltės",21
+"Zarasų - Visagino",52,"Zarasų rytų",22
+"Zarasų - Visagino",52,"Zarasų vakarų",23
+"Zarasų - Visagino",52,"Zarasų šiaurės",24
+"Zarasų - Visagino",52,"Balsai suskaičiuoti rinkimų apygardoje",NA
+"Ignalinos - Švenčionių",53,"Antalksnės",1
+"Ignalinos - Švenčionių",53,"Bernotų",2
+"Ignalinos - Švenčionių",53,"Ceikinių",3
+"Ignalinos - Švenčionių",53,"Didžiasalio",4
+"Ignalinos - Švenčionių",53,"Dysnos",5
+"Ignalinos - Švenčionių",53,"Dūkšto",6
+"Ignalinos - Švenčionių",53,"Pašaminės",6
+"Ignalinos - Švenčionių",53,"Gilūtų",7
+"Ignalinos - Švenčionių",53,"Reškutėnų",7
+"Ignalinos - Švenčionių",53,"Grybėnų",8
+"Ignalinos - Švenčionių",53,"Trūdų",8
+"Ignalinos - Švenčionių",53,"Ignalinos Centro",9
+"Ignalinos - Švenčionių",53,"Zadvarninkų",9
+"Ignalinos - Švenčionių",53,"Ignalinos",10
+"Ignalinos - Švenčionių",53,"Milkuškų",10
+"Ignalinos - Švenčionių",53,"Kaniūkų",11
+"Ignalinos - Švenčionių",53,"Stanislavavo",11
+"Ignalinos - Švenčionių",53,"Kazitiškio",12
+"Ignalinos - Švenčionių",53,"Šventos",12
+"Ignalinos - Švenčionių",53,"Bačkininkų",13
+"Ignalinos - Švenčionių",53,"Kazokinės",13
+"Ignalinos - Švenčionių",53,"Linkmenų",14
+"Ignalinos - Švenčionių",53,"Svirkų",14
+"Ignalinos - Švenčionių",53,"Adutiškio",15
+"Ignalinos - Švenčionių",53,"Mažėnų",15
+"Ignalinos - Švenčionių",53,"Jakelių",16
+"Ignalinos - Švenčionių",53,"Meikštų",16
+"Ignalinos - Švenčionių",53,"Mielagėnų",17
+"Ignalinos - Švenčionių",53,"N.Daugėliškio",18
+"Ignalinos - Švenčionių",53,"Švenčionių",19
+"Ignalinos - Švenčionių",53,"Liepų",20
+"Ignalinos - Švenčionių",53,"Rimšės",20
+"Ignalinos - Švenčionių",53,"Cirkliškio",21
+"Ignalinos - Švenčionių",53,"Rubelninkų",21
+"Ignalinos - Švenčionių",53,"Strigališkio",22
+"Ignalinos - Švenčionių",53,"Šiūlėnų",23
+"Ignalinos - Švenčionių",53,"Švedriškės",24
+"Ignalinos - Švenčionių",53,"Taujūnų",25
+"Ignalinos - Švenčionių",53,"Pavoverės",26
+"Ignalinos - Švenčionių",53,"Tverečiaus",26
+"Ignalinos - Švenčionių",53,"Sarių",27
+"Ignalinos - Švenčionių",53,"Vidiškių",27
+"Ignalinos - Švenčionių",53,"Strūnaičio",28
+"Ignalinos - Švenčionių",53,"Vidutinės",29
+"Ignalinos - Švenčionių",53,"Balsai suskaičiuoti rinkimų apygardoje",NA
+"Molėtų - Švenčionių",54,"Alantos",1
+"Molėtų - Švenčionių",54,"Švenčionėlių",1
+"Molėtų - Švenčionių",54,"Ateities",2
+"Molėtų - Švenčionių",54,"Žalvarių",2
+"Molėtų - Švenčionių",54,"Balninkų",3
+"Molėtų - Švenčionių",54,"Kaltanėnų",3
+"Molėtų - Švenčionių",54,"Bekupės",4
+"Molėtų - Švenčionių",54,"Labanoro",4
+"Molėtų - Švenčionių",54,"Bijutiškio",5
+"Molėtų - Švenčionių",54,"Čiulėnų",6
+"Molėtų - Švenčionių",54,"Dapkūniškių",7
+"Molėtų - Švenčionių",54,"Dubingių",8
+"Molėtų - Švenčionių",54,"Giedraičių",9
+"Molėtų - Švenčionių",54,"Girsteitiškio",10
+"Molėtų - Švenčionių",54,"Inturkės",11
+"Molėtų - Švenčionių",54,"Joniškio",12
+"Molėtų - Švenčionių",54,"Miežonių",13
+"Molėtų - Švenčionių",54,"Levaniškių",14
+"Molėtų - Švenčionių",54,"Luokesos",15
+"Molėtų - Švenčionių",54,"Mindūnų",16
+"Molėtų - Švenčionių",54,"Pabradės",17
+"Molėtų - Švenčionių",54,"Siesarties",17
+"Molėtų - Švenčionių",54,"Kranto",18
+"Molėtų - Švenčionių",54,"Liepų",18
+"Molėtų - Švenčionių",54,"Naujasodžio",19
+"Molėtų - Švenčionių",54,"Skudutiškio",20
+"Molėtų - Švenčionių",54,"Suginčių",21
+"Molėtų - Švenčionių",54,"Magūnų",22
+"Molėtų - Švenčionių",54,"Videniškių",22
+"Molėtų - Švenčionių",54,"Prienų",23
+"Molėtų - Švenčionių",54,"Vorėnų",23
+"Molėtų - Švenčionių",54,"Karkažiškės",24
+"Molėtų - Švenčionių",54,"Verbiškių",24
+"Molėtų - Švenčionių",54,"Padubingės",25
+"Molėtų - Švenčionių",54,"Sužionių",45
+"Molėtų - Švenčionių",54,"Skirlėnų",47
+"Širvintų - Vilniaus",55,"Avižienių",1
+"Širvintų - Vilniaus",55,"Širvintų m.",1
+"Širvintų - Vilniaus",55,"I.Šeiniaus",2
+"Širvintų - Vilniaus",55,"Riešės",2
+"Širvintų - Vilniaus",55,"Buivydžių",3
+"Širvintų - Vilniaus",55,"Juodiškių",3
+"Širvintų - Vilniaus",55,"Alionių",4
+"Širvintų - Vilniaus",55,"Buivydiškių",4
+"Širvintų - Vilniaus",55,"Čiobiškio",5
+"Širvintų - Vilniaus",55,"Platiniškių",5
+"Širvintų - Vilniaus",55,"Čekoniškių",6
+"Širvintų - Vilniaus",55,"Virvyčių",6
+"Širvintų - Vilniaus",55,"Bagaslaviškio",7
+"Širvintų - Vilniaus",55,"Gelvonų",8
+"Širvintų - Vilniaus",55,"Liukonių",9
+"Širvintų - Vilniaus",55,"Bartkuškio",10
+"Širvintų - Vilniaus",55,"Šiaulių",11
+"Širvintų - Vilniaus",55,"Medžiukų",12
+"Širvintų - Vilniaus",55,"Dūkštų",13
+"Širvintų - Vilniaus",55,"Kernavės",13
+"Širvintų - Vilniaus",55,"Geisiškių",14
+"Širvintų - Vilniaus",55,"Musninkų",14
+"Širvintų - Vilniaus",55,"Vileikiškių",15
+"Širvintų - Vilniaus",55,"Alekniškio",16
+"Širvintų - Vilniaus",55,"Družų",17
+"Širvintų - Vilniaus",55,"Motiejūnų",18
+"Širvintų - Vilniaus",55,"Širvintų kaimiškoji",19
+"Širvintų - Vilniaus",55,"Anciūnų",20
+"Širvintų - Vilniaus",55,"Maišiagalos",20
+"Širvintų - Vilniaus",55,"Karvio",21
+"Širvintų - Vilniaus",55,"Kiauklių",21
+"Širvintų - Vilniaus",55,"Šešuolėlių",22
+"Širvintų - Vilniaus",55,"Viesų",23
+"Širvintų - Vilniaus",55,"Kielių",24
+"Širvintų - Vilniaus",55,"Rudausių",30
+"Širvintų - Vilniaus",55,"Eitminiškių",32
+"Širvintų - Vilniaus",55,"Paberžės",33
+"Širvintų - Vilniaus",55,"Glitiškių",34
+"Širvintų - Vilniaus",55,"Visalaukės",35
+"Širvintų - Vilniaus",55,"Didžiosios Riešės",36
+"Širvintų - Vilniaus",55,"Pikeliškių",37
+"Širvintų - Vilniaus",55,"Sudervės",44
+"Širvintų - Vilniaus",55,"Veriškių",46
+"Širvintų - Vilniaus",55,"Bukiškio",53
+"Širvintų - Vilniaus",55,"Kreivalaužių",54
+"Vilniaus - Šalčininkų",56,"Šalčininkų",1
+"Vilniaus - Šalčininkų",56,"Centrinė miesto",2
+"Vilniaus - Šalčininkų",56,"Parko",3
+"Vilniaus - Šalčininkų",56,"Šalčininkėlių",4
+"Vilniaus - Šalčininkų",56,"Zavišonių",5
+"Vilniaus - Šalčininkų",56,"Gerviškių",6
+"Vilniaus - Šalčininkų",56,"Bezdonių",7
+"Vilniaus - Šalčininkų",56,"Tribonių",7
+"Vilniaus - Šalčininkų",56,"Sėlų",8
+"Vilniaus - Šalčininkų",56,"Čiužiakampio",9
+"Vilniaus - Šalčininkų",56,"Pakenės",15
+"Vilniaus - Šalčininkų",56,"Kalvelių",16
+"Vilniaus - Šalčininkų",56,"Šumsko",17
+"Vilniaus - Šalčininkų",56,"Mostiškių",18
+"Vilniaus - Šalčininkų",56,"Lavoriškių",19
+"Vilniaus - Šalčininkų",56,"Jašiūnų",20
+"Vilniaus - Šalčininkų",56,"Geležinkelio",21
+"Vilniaus - Šalčininkų",56,"Keidžių",22
+"Vilniaus - Šalčininkų",56,"Rūdninkų",23
+"Vilniaus - Šalčininkų",56,"Baltosios Vokės",24
+"Vilniaus - Šalčininkų",56,"Mickūnų",24
+"Vilniaus - Šalčininkų",56,"Galgių",25
+"Vilniaus - Šalčininkų",56,"Turgelių",25
+"Vilniaus - Šalčininkų",56,"Medininkų",26
+"Vilniaus - Šalčininkų",56,"Skynimų",26
+"Vilniaus - Šalčininkų",56,"Tabariškių",27
+"Vilniaus - Šalčininkų",56,"Akmenynės",28
+"Vilniaus - Šalčininkų",56,"Kabiškių",29
+"Vilniaus - Šalčininkų",56,"Poškonių",29
+"Vilniaus - Šalčininkų",56,"Dieveniškių",30
+"Vilniaus - Šalčininkų",56,"Krakūnų",31
+"Vilniaus - Šalčininkų",56,"Jurgelionių",32
+"Vilniaus - Šalčininkų",56,"Milkūnų",33
+"Vilniaus - Šalčininkų",56,"Baušių",34
+"Vilniaus - Šalčininkų",56,"Šarkaičių",36
+"Vilniaus - Šalčininkų",56,"Rukainių",41
+"Vilniaus - Šalčininkų",56,"Senasalio",42
+"Vilniaus - Šalčininkų",56,"Savičiūnų",43
+"Vilniaus - Šalčininkų",56,"Nemenčinės",51
+"Vilniaus - Šalčininkų",56,"Neries",52
+"Vilniaus - Šalčininkų",56,"Rakonių",55
+"Vilniaus - Trakų",57,"Lentvario",1
+"Vilniaus - Trakų",57,"Klevų",2
+"Vilniaus - Trakų",57,"Baltosios Vokės",8
+"Vilniaus - Trakų",57,"Pagirių",9
+"Vilniaus - Trakų",57,"Keturiasdešimties Totorių",10
+"Vilniaus - Trakų",57,"Grigaičių",11
+"Vilniaus - Trakų",57,"Kyviškių",12
+"Vilniaus - Trakų",57,"Marijampolio",22
+"Vilniaus - Trakų",57,"Parudaminio",23
+"Vilniaus - Trakų",57,"Nemėžio",27
+"Vilniaus - Trakų",57,"Skaidiškių",28
+"Vilniaus - Trakų",57,"Senojo Tarpupio",30
+"Vilniaus - Trakų",57,"Šventininkų",32
+"Vilniaus - Trakų",57,"Rudaminos",38
+"Vilniaus - Trakų",57,"Kalviškių",39
+"Vilniaus - Trakų",57,"Valčiūnų",40
+"Vilniaus - Trakų",57,"Lauko",43
+"Vilniaus - Trakų",57,"Kilimų",44
+"Vilniaus - Trakų",57,"Mažųjų Lygainių",48
+"Vilniaus - Trakų",57,"Juodšilių",49
+"Vilniaus - Trakų",57,"Melioratorių",50
+"Vilniaus - Trakų",57,"Salininkų",451
+"Trakų - Elektrėnų",58,"Trakų m.",3
+"Trakų - Elektrėnų",58,"Ausieniškių",5
+"Trakų - Elektrėnų",58,"Balceriškių",6
+"Trakų - Elektrėnų",58,"Beižionių",7
+"Trakų - Elektrėnų",58,"Daugirdiškių",8
+"Trakų - Elektrėnų",58,"Kazokiškių",9
+"Trakų - Elektrėnų",58,"Ismonių",10
+"Trakų - Elektrėnų",58,"Pastrėvio",10
+"Trakų - Elektrėnų",58,"Semeliškių",11
+"Trakų - Elektrėnų",58,"Tiltų",11
+"Trakų - Elektrėnų",58,"Rūdiškių",12
+"Trakų - Elektrėnų",58,"Vievio",12
+"Trakų - Elektrėnų",58,"Šklėrių",13
+"Trakų - Elektrėnų",58,"Aukštadvario",14
+"Trakų - Elektrėnų",58,"Čižiūnų",15
+"Trakų - Elektrėnų",58,"Karapolio",16
+"Trakų - Elektrėnų",58,"Grendavės",17
+"Trakų - Elektrėnų",58,"Rykantų",21
+"Trakų - Elektrėnų",58,"Dusmenų",22
+"Trakų - Elektrėnų",58,"Onuškio",23
+"Trakų - Elektrėnų",58,"Vaickūniškių",24
+"Trakų - Elektrėnų",58,"Kauno Vokės",25
+"Trakų - Elektrėnų",58,"Paluknio",25
+"Trakų - Elektrėnų",58,"Kunigiškių",26
+"Trakų - Elektrėnų",58,"Bijūnų",27
+"Trakų - Elektrėnų",58,"Šviesos",27
+"Trakų - Elektrėnų",58,"Senųjų Trakų",31
+"Trakų - Elektrėnų",58,"Bražuolės",33
+"Trakų - Elektrėnų",58,"Žaizdrių",34
+"Trakų - Elektrėnų",58,"Jovariškių",35
+"Trakų - Elektrėnų",58,"Salkininkų",40
+"Trakų - Elektrėnų",58,"Birutės",41
+"Trakų - Elektrėnų",58,"Bagdononių",42
+"Kaišiadorių - Elektrėnų",59,"Draugystės",1
+"Kaišiadorių - Elektrėnų",59,"Vytauto",1
+"Kaišiadorių - Elektrėnų",59,"Gedimino",2
+"Kaišiadorių - Elektrėnų",59,"Saulės",2
+"Kaišiadorių - Elektrėnų",59,"Girelės",3
+"Kaišiadorių - Elektrėnų",59,"Sodų",3
+"Kaišiadorių - Elektrėnų",59,"Lomenos",4
+"Kaišiadorių - Elektrėnų",59,"Versmės",4
+"Kaišiadorių - Elektrėnų",59,"Kruonio",5
+"Kaišiadorių - Elektrėnų",59,"Kalvių",6
+"Kaišiadorių - Elektrėnų",59,"Vilūnų",7
+"Kaišiadorių - Elektrėnų",59,"Darsūniškio",8
+"Kaišiadorių - Elektrėnų",59,"Ringailių",9
+"Kaišiadorių - Elektrėnų",59,"Stoniavos",12
+"Kaišiadorių - Elektrėnų",59,"Dainių",13
+"Kaišiadorių - Elektrėnų",59,"Gilučių",13
+"Kaišiadorių - Elektrėnų",59,"Jagėlonių",14
+"Kaišiadorių - Elektrėnų",59,"Stasiūnų",14
+"Kaišiadorių - Elektrėnų",59,"Kietaviškių",15
+"Kaišiadorių - Elektrėnų",59,"Melioratorių",15
+"Kaišiadorių - Elektrėnų",59,"Žiežmarių",16
+"Kaišiadorių - Elektrėnų",59,"Gudienos",17
+"Kaišiadorių - Elektrėnų",59,"Žaslių",18
+"Kaišiadorių - Elektrėnų",59,"Pajautiškių",19
+"Kaišiadorių - Elektrėnų",59,"Stabintiškių",20
+"Kaišiadorių - Elektrėnų",59,"Beištrakių",21
+"Kaišiadorių - Elektrėnų",59,"Tauckūnų",22
+"Kaišiadorių - Elektrėnų",59,"Palomenės",23
+"Kaišiadorių - Elektrėnų",59,"Zūbiškių",24
+"Kaišiadorių - Elektrėnų",59,"Paparčių",25
+"Kaišiadorių - Elektrėnų",59,"Rumšiškių",26
+"Kaišiadorių - Elektrėnų",59,"Pravieniškių",27
+"Kaišiadorių - Elektrėnų",59,"Dovainonių",28
+"Kaišiadorių - Elektrėnų",59,"Antakalnio",29
+"Kaišiadorių - Elektrėnų",59,"Mūro Strėvininkų",30
+"Kaišiadorių - Elektrėnų",59,"Liutonių",31
+"Jonavos",60,"Rimkų",1
+"Jonavos",60,"Juodmenos",2
+"Jonavos",60,"Kregždutės",3
+"Jonavos",60,"Bibliotekos",4
+"Jonavos",60,"Senamiesčio",6
+"Jonavos",60,"Saulutės",7
+"Jonavos",60,"Mokyklos",8
+"Jonavos",60,"Ateities",9
+"Jonavos",60,"Kalnų",10
+"Jonavos",60,"Lakštingalų",11
+"Jonavos",60,"Lietavos",12
+"Jonavos",60,"Baldininkų",13
+"Jonavos",60,"Ruklos",14
+"Jonavos",60,"Bukonių",15
+"Jonavos",60,"Liepių",16
+"Jonavos",60,"Batėgalos",17
+"Jonavos",60,"Čičinų",18
+"Jonavos",60,"Kulvos",19
+"Jonavos",60,"Juškonių",20
+"Jonavos",60,"Kuigalių",21
+"Jonavos",60,"Žeimių",22
+"Jonavos",60,"Panoterių",23
+"Jonavos",60,"Šilų",24
+"Jonavos",60,"Upninkų",25
+"Jonavos",60,"Užusalių",26
+"Jonavos",60,"Šveicarijos",27
+"Ukmergės",61,"S.Daukanto",1
+"Ukmergės",61,"Anykščių",2
+"Ukmergės",61,"Maironio",3
+"Ukmergės",61,"J.Basanavičiaus",4
+"Ukmergės",61,"Vytauto",5
+"Ukmergės",61,"Kęstučio",6
+"Ukmergės",61,"Klaipėdos",7
+"Ukmergės",61,"Transporto",8
+"Ukmergės",61,"Kauno",9
+"Ukmergės",61,"Smėlių",10
+"Ukmergės",61,"Krekšlių",11
+"Ukmergės",61,"Linų",12
+"Ukmergės",61,"Pivonijos",13
+"Ukmergės",61,"Pašilės",14
+"Ukmergės",61,"Siesikų",15
+"Ukmergės",61,"Taujėnų",18
+"Ukmergės",61,"Balelių",19
+"Ukmergės",61,"Vidiškių",21
+"Ukmergės",61,"Rečionių",22
+"Ukmergės",61,"Deltuvos",23
+"Ukmergės",61,"Dainavos",24
+"Ukmergės",61,"Lyduokių",26
+"Ukmergės",61,"Pabaisko",28
+"Ukmergės",61,"Kulniškių",29
+"Ukmergės",61,"Šešuolių",30
+"Ukmergės",61,"Liaušių",31
+"Ukmergės",61,"Antakalnio",32
+"Ukmergės",61,"Krikštėnų",33
+"Ukmergės",61,"Laičių",34
+"Ukmergės",61,"Veprių",35
+"Ukmergės",61,"Želvos",37
+"Ukmergės",61,"Žemaitkiemio",40
+"Jurbarko",62,"Viešvilės",1
+"Jurbarko",62,"Smalininkų",2
+"Jurbarko",62,"Jurbarkų",3
+"Jurbarko",62,"Rotulių",4
+"Jurbarko",62,"Žindaičių",5
+"Jurbarko",62,"Eržvilko",6
+"Jurbarko",62,"Pašaltuonio",7
+"Jurbarko",62,"Lybiškių",8
+"Jurbarko",62,"Kartupių",9
+"Jurbarko",62,"Rutkiškių",10
+"Jurbarko",62,"Pavidaujo",11
+"Jurbarko",62,"Girdžių",12
+"Jurbarko",62,"Vadžgirio",13
+"Jurbarko",62,"Šimkaičių",14
+"Jurbarko",62,"Paulių",15
+"Jurbarko",62,"Volungiškės",16
+"Jurbarko",62,"Juodaičių",17
+"Jurbarko",62,"Armeniškių",18
+"Jurbarko",62,"Seredžiaus",19
+"Jurbarko",62,"Klausučių",20
+"Jurbarko",62,"Gricių",21
+"Jurbarko",62,"Tamošių",22
+"Jurbarko",62,"Veliuonos",23
+"Jurbarko",62,"Skaudvilės",24
+"Jurbarko",62,"Stakių",24
+"Jurbarko",62,"Adakavo",25
+"Jurbarko",62,"Raudonės",25
+"Jurbarko",62,"Pilies",26
+"Jurbarko",62,"Trepų",26
+"Jurbarko",62,"Skirsnemunės",27
+"Jurbarko",62,"Vaidilų",27
+"Jurbarko",62,"Dariaus ir Girėno",28
+"Jurbarko",62,"Vydūno",29
+"Jurbarko",62,"Vytauto Didžiojo",30
+"Jurbarko",62,"Naujamiesčio",31
+"Suvalkijos",63,"Kalvarijos Vakarinė",1
+"Suvalkijos",63,"Kazlų Rūdos",1
+"Suvalkijos",63,"Kalvarijos Rytinė",2
+"Suvalkijos",63,"Pušų",2
+"Suvalkijos",63,"Jungėnų",3
+"Suvalkijos",63,"Mindaugo",3
+"Suvalkijos",63,"Brukų",4
+"Suvalkijos",63,"Liepų",4
+"Suvalkijos",63,"Bagotosios",5
+"Suvalkijos",63,"Sūsninkų",5
+"Suvalkijos",63,"Antanavo",6
+"Suvalkijos",63,"Mockų",6
+"Suvalkijos",63,"Jusevičių",7
+"Suvalkijos",63,"Višakio Rūdos",7
+"Suvalkijos",63,"Jūrės",8
+"Suvalkijos",63,"Sangrūdos",8
+"Suvalkijos",63,"Jūrės",9
+"Suvalkijos",63,"Radiškės",9
+"Suvalkijos",63,"Plutiškių",10
+"Suvalkijos",63,"Salaperaugio",10
+"Suvalkijos",63,"Ąžuolų Būdos",11
+"Suvalkijos",63,"Liubavo",11
+"Suvalkijos",63,"Bebruliškės",12
+"Suvalkijos",63,"Brazavo",12
+"Suvalkijos",63,"Būdos",13
+"Suvalkijos",63,"Jurgežerių",13
+"Suvalkijos",63,"Jankų",14
+"Suvalkijos",63,"Tarprubežių",14
+"Suvalkijos",63,"Akmenynų",15
+"Suvalkijos",63,"Kampinių",16
+"Suvalkijos",63,"Mokolų kaimo",16
+"Suvalkijos",63,"Aistiškių",17
+"Suvalkijos",63,"Šunskų",17
+"Suvalkijos",63,"Sasnavos",18
+"Suvalkijos",63,"Puskelnių",19
+"Suvalkijos",63,"Smilgių",20
+"Suvalkijos",63,"Baraginės",21
+"Suvalkijos",63,"Patašinės",22
+"Suvalkijos",63,"Igliškėlių",23
+"Suvalkijos",63,"Igliaukos",24
+"Suvalkijos",63,"Šventragio",25
+"Suvalkijos",63,"Gudelių",26
+"Suvalkijos",63,"Daugirdų",27
+"Suvalkijos",63,"Daukšių",28
+"Suvalkijos",63,"Padovinio",29
+"Suvalkijos",63,"Želsvos",31
+"Suvalkijos",63,"Liudvinavo",32
+"Suvalkijos",63,"Netičkampio",33
+"Suvalkijos",63,"Valavičių",34
+"Suvalkijos",63,"Balsupių",35
+"Suvalkijos",63,"Varnupių",36
+"Suvalkijos",63,"Meškučių",38
+"Suvalkijos",63,"Kūlokų",39
+"Suvalkijos",63,"Tautkaičių",40
+"Suvalkijos",63,"Gavaltuvos",41
+"Šakių",64,"Žiburio",1
+"Šakių",64,"Varpo",2
+"Šakių",64,"Aušros",3
+"Šakių",64,"Barzdų",4
+"Šakių",64,"Baltrušių",5
+"Šakių",64,"Būblelių",6
+"Šakių",64,"Panovių",7
+"Šakių",64,"Gelgaudiškio",8
+"Šakių",64,"Plokščių",9
+"Šakių",64,"Griškabūdžio",10
+"Šakių",64,"Degutinės",11
+"Šakių",64,"Patašinės",12
+"Šakių",64,"Paluobių",13
+"Šakių",64,"Kidulių",16
+"Šakių",64,"Voverių",17
+"Šakių",64,"Sudargo",19
+"Šakių",64,"Kriūkų",20
+"Šakių",64,"Gerdžiūnų",21
+"Šakių",64,"Lekėčių",22
+"Šakių",64,"Daržininkų",23
+"Šakių",64,"Mikytų",23
+"Šakių",64,"Lukšių",24
+"Šakių",64,"Liepalotų",25
+"Šakių",64,"Sūdavos",25
+"Šakių",64,"Sintautų",26
+"Šakių",64,"Veršių",27
+"Šakių",64,"Keturnaujienos",28
+"Šakių",64,"Žvirgždaičių",29
+"Šakių",64,"Slavikų",30
+"Šakių",64,"Gotlybiškių",31
+"Šakių",64,"Išdagų",33
+"Šakių",64,"Giedručių",34
+"Šakių",64,"Ritinių",35
+"Šakių",64,"Girėnų",36
+"Šakių",64,"Briedžių",37
+"Šakių",64,"Kudirkos Naumiesčio",38
+"Šakių",64,"Slabadų",43
+"Kauno - Kėdainių",65,"Angirių",1
+"Kauno - Kėdainių",65,"Ažytėnų",3
+"Kauno - Kėdainių",65,"Babtų",4
+"Kauno - Kėdainių",65,"Beinaičių",5
+"Kauno - Kėdainių",65,"Pagynės",5
+"Kauno - Kėdainių",65,"Panevėžiuko",6
+"Kauno - Kėdainių",65,"Čekiškės",7
+"Kauno - Kėdainių",65,"Liučiūnų",8
+"Kauno - Kėdainių",65,"Domeikavos",9
+"Kauno - Kėdainių",65,"Josvainių",9
+"Kauno - Kėdainių",65,"Neries",10
+"Kauno - Kėdainių",65,"Voškonių",11
+"Kauno - Kėdainių",65,"Lapių",12
+"Kauno - Kėdainių",65,"Krakių",13
+"Kauno - Kėdainių",65,"Kunionių",14
+"Kauno - Kėdainių",65,"Labūnavos",15
+"Kauno - Kėdainių",65,"Langakių",17
+"Kauno - Kėdainių",65,"Medėkšių",20
+"Kauno - Kėdainių",65,"Meironiškio",21
+"Kauno - Kėdainių",65,"Raudondvario",23
+"Kauno - Kėdainių",65,"Batniavos",24
+"Kauno - Kėdainių",65,"Nociūnų",24
+"Kauno - Kėdainių",65,"Paaluonio",26
+"Kauno - Kėdainių",65,"Pajieslio",28
+"Kauno - Kėdainių",65,"Pašušvio",30
+"Kauno - Kėdainių",65,"Pelėdnagių",31
+"Kauno - Kėdainių",65,"Pelutavos",32
+"Kauno - Kėdainių",65,"Užliedžių",33
+"Kauno - Kėdainių",65,"Pernaravos",34
+"Kauno - Kėdainių",65,"Vandžiogalos",34
+"Kauno - Kėdainių",65,"Padauguvos",35
+"Kauno - Kėdainių",65,"Saulėtekių",36
+"Kauno - Kėdainių",65,"Daugėliškių",37
+"Kauno - Kėdainių",65,"Saviečių",37
+"Kauno - Kėdainių",65,"Skaistgirių",40
+"Kauno - Kėdainių",65,"Kulautuvos",45
+"Kauno - Kėdainių",65,"Vilkijos",46
+"Kauno - Kėdainių",65,"Žalgirio",48
+"Kauno - Kėdainių",65,"Vainikų",49
+"Kauno - Kėdainių",65,"Mokyklos",50
+"Kauno - Kėdainių",65,"Saulės",51
+"Kauno - Kėdainių",65,"Muniškių",54
+"Kauno kaimiškoji",66,"Mastaičių",1
+"Kauno kaimiškoji",66,"Pažėrų",2
+"Kauno kaimiškoji",66,"Juragių",13
+"Kauno kaimiškoji",66,"Ilgakiemio",14
+"Kauno kaimiškoji",66,"Teleičių",15
+"Kauno kaimiškoji",66,"Karmėlavos",16
+"Kauno kaimiškoji",66,"Ramučių",17
+"Kauno kaimiškoji",66,"Neveronių",18
+"Kauno kaimiškoji",66,"Universiteto",19
+"Kauno kaimiškoji",66,"Akademijos",20
+"Kauno kaimiškoji",66,"Ringaudų",21
+"Kauno kaimiškoji",66,"Nemuno",26
+"Kauno kaimiškoji",66,"Šlienavos",28
+"Kauno kaimiškoji",66,"Girionių",29
+"Kauno kaimiškoji",66,"Taurakiemio",30
+"Kauno kaimiškoji",66,"Zapyškio",38
+"Kauno kaimiškoji",66,"Altoniškių",39
+"Kauno kaimiškoji",66,"Ežerėlio",40
+"Kauno kaimiškoji",66,"Garliavos",41
+"Kauno kaimiškoji",66,"Liepų",42
+"Kauno kaimiškoji",66,"Jonučių",43
+"Kauno kaimiškoji",66,"Kačerginės",44
+"Kauno kaimiškoji",66,"Linksmakalnio",47
+"Kauno kaimiškoji",66,"Meno mokyklos",49
+"Kauno kaimiškoji",66,"Bibliotekos",52
+"Kauno kaimiškoji",66,"S. Lozoraičio",53
+"Prienų - Birštono",67,"Birštono m.",1
+"Prienų - Birštono",67,"Dariaus ir Girėno",1
+"Prienų - Birštono",67,"Birštono vienkiemio",2
+"Prienų - Birštono",67,"J.Basanavičiaus",2
+"Prienų - Birštono",67,"Kęstučio",3
+"Prienų - Birštono",67,"Nemajūnų",3
+"Prienų - Birštono",67,"Statybininkų",4
+"Prienų - Birštono",67,"Žemaitkiemio",5
+"Prienų - Birštono",67,"Šiauliškių",6
+"Prienų - Birštono",67,"Išlaužo",7
+"Prienų - Birštono",67,"Naujosios Ūtos",8
+"Prienų - Birštono",67,"Jiestrakio",9
+"Prienų - Birštono",67,"Klebiškio",10
+"Prienų - Birštono",67,"Šilavoto",11
+"Prienų - Birštono",67,"Skriaudžių",13
+"Prienų - Birštono",67,"Juodbūdžio",14
+"Prienų - Birštono",67,"Veiverių",15
+"Prienų - Birštono",67,"Balbieriškio miestelio",16
+"Prienų - Birštono",67,"Jiezno miesto",17
+"Prienų - Birštono",67,"Jiezno kaimiškoji",18
+"Prienų - Birštono",67,"Kašonių",19
+"Prienų - Birštono",67,"Vėžionių",20
+"Prienų - Birštono",67,"Ašmintos",21
+"Prienų - Birštono",67,"Strielčių",22
+"Prienų - Birštono",67,"Balbieriškio kaimiškoji",23
+"Prienų - Birštono",67,"Paprūdžių",24
+"Prienų - Birštono",67,"Žiūronių",25
+"Prienų - Birštono",67,"Pakuonio",29
+"Prienų - Birštono",67,"Purvininkų",30
+"Prienų - Birštono",67,"Vyšniūnų",31
+"Prienų - Birštono",67,"Užuguosčio",32
+"Prienų - Birštono",67,"Pieštuvėnų",33
+"Prienų - Birštono",67,"Stakliškių",34
+"Vilkaviškio",68,"Vilkaviškio  rytų",1
+"Vilkaviškio",68,"Vilkaviškio pietų",2
+"Vilkaviškio",68,"Vilkaviškio vakarų",3
+"Vilkaviškio",68,"Vilkaviškio šiaurės",4
+"Vilkaviškio",68,"Kybartų rytų",5
+"Vilkaviškio",68,"Kybartų vakarų",6
+"Vilkaviškio",68,"Virbalio",7
+"Vilkaviškio",68,"Rimavičių",8
+"Vilkaviškio",68,"Bartninkų",9
+"Vilkaviškio",68,"Lakštučių",10
+"Vilkaviškio",68,"Pašeimenių",11
+"Vilkaviškio",68,"Piliakalnių",12
+"Vilkaviškio",68,"Gižų",13
+"Vilkaviškio",68,"Bačkiškių",14
+"Vilkaviškio",68,"Karklinių",15
+"Vilkaviškio",68,"Keturvalakių",16
+"Vilkaviškio",68,"Gudkaimio",17
+"Vilkaviškio",68,"Lauckaimio",18
+"Vilkaviškio",68,"Matlaukio",19
+"Vilkaviškio",68,"Šiaudiniškių",20
+"Vilkaviškio",68,"Vilkupių",21
+"Vilkaviškio",68,"Virbalio kaimiškoji",22
+"Vilkaviškio",68,"Klausučių",24
+"Vilkaviškio",68,"Karalkrėslio",26
+"Vilkaviškio",68,"Pajevonio",27
+"Vilkaviškio",68,"Alksnėnų",28
+"Vilkaviškio",68,"Opšrūtų",29
+"Vilkaviškio",68,"Paežerių",30
+"Vilkaviškio",68,"Pilviškių",31
+"Vilkaviškio",68,"Ramoniškių",32
+"Vilkaviškio",68,"Alvito",33
+"Vilkaviškio",68,"Giedrių",34
+"Vilkaviškio",68,"Klampučių",35
+"Vilkaviškio",68,"Serdokų",36
+"Vilkaviškio",68,"Uosių",37
+"Vilkaviškio",68,"Gražiškių",38
+"Vilkaviškio",68,"Girėnų",39
+"Vilkaviškio",68,"Vištyčio",40
+"Vilkaviškio",68,"Vartų",41
+"Vilkaviškio",68,"Pūstapėdžių",42
+"Vilkaviškio",68,"Stirniškių",44
+"Dzūkijos",69,"Praniūnų",2
+"Dzūkijos",69,"Genių",3
+"Dzūkijos",69,"Miklusėnų",4
+"Dzūkijos",69,"Santaikos",5
+"Dzūkijos",69,"Kolegijos",6
+"Dzūkijos",69,"Luksnėnų",6
+"Dzūkijos",69,"Geištarų",8
+"Dzūkijos",69,"Miroslavo",9
+"Dzūkijos",69,"Parėčėnų",12
+"Dzūkijos",69,"Putinų",12
+"Dzūkijos",69,"Papėčių",13
+"Dzūkijos",69,"Šaltinių",13
+"Dzūkijos",69,"Kumečių",14
+"Dzūkijos",69,"Ūdrijos",14
+"Dzūkijos",69,"Alytaus dujų ūkio",15
+"Dzūkijos",69,"Vankiškių",15
+"Dzūkijos",69,"Pramonės",16
+"Dzūkijos",69,"Simno",16
+"Dzūkijos",69,"Mergalaukio",17
+"Dzūkijos",69,"Kalesninkų",18
+"Dzūkijos",69,"Kavalčiukų",19
+"Dzūkijos",69,"Ąžuolinių",20
+"Dzūkijos",69,"Verebiejų",21
+"Dzūkijos",69,"Gluosninkų",22
+"Dzūkijos",69,"Krokialaukio",23
+"Dzūkijos",69,"Ūdrijos",24
+"Dzūkijos",69,"Santaikos",25
+"Dzūkijos",69,"Punios",26
+"Dzūkijos",69,"Raižių",27
+"Dzūkijos",69,"Vaisodžių",28
+"Dzūkijos",69,"Žagarių",29
+"Dzūkijos",69,"Butrimonių",30
+"Dzūkijos",69,"Vanagėlių",31
+"Dzūkijos",69,"Eičiūnų",32
+"Dzūkijos",69,"Pivašiūnų",33
+"Dzūkijos",69,"Mikalavo",34
+"Dzūkijos",69,"Junčionių",35
+"Dzūkijos",69,"Jurgelionių",36
+"Dzūkijos",69,"Kedonių",37
+"Dzūkijos",69,"Daugų",38
+"Dzūkijos",69,"Rodžios",39
+"Dzūkijos",69,"Vaikantonių",40
+"Dzūkijos",69,"Rimėnų",41
+"Dzūkijos",69,"Meškučių",42
+"Dzūkijos",69,"Pocelonių",43
+"Dzūkijos",69,"Alytaus",44
+"Dzūkijos",69,"Venciūnų",45
+"Dzūkijos",69,"Alovės",46
+"Dzūkijos",69,"Ilgų",47
+"Dzūkijos",69,"Makniūnų",48
+"Dzūkijos",69,"Ryliškių",49
+"Dzūkijos",69,"Nemunaičio",50
+"Varėnos - Eišiškių",70,"Puodžių",1
+"Varėnos - Eišiškių",70,"Žilinų",2
+"Varėnos - Eišiškių",70,"Dubičių",3
+"Varėnos - Eišiškių",70,"Panočių",4
+"Varėnos - Eišiškių",70,"Kabelių",5
+"Varėnos - Eišiškių",70,"Marcinkonių",6
+"Varėnos - Eišiškių",70,"Margionių",7
+"Varėnos - Eišiškių",70,"Puvočių",8
+"Varėnos - Eišiškių",70,"Žiūrų",9
+"Varėnos - Eišiškių",70,"Butrimonių",10
+"Varėnos - Eišiškių",70,"Krūminių",10
+"Varėnos - Eišiškių",70,"Jančiūnų",11
+"Varėnos - Eišiškių",70,"Matuizų",11
+"Varėnos - Eišiškių",70,"Eišiškių",12
+"Varėnos - Eišiškių",70,"Gudakiemio",13
+"Varėnos - Eišiškių",70,"Jurzdikos",13
+"Varėnos - Eišiškių",70,"Gornostajiškių",14
+"Varėnos - Eišiškių",70,"Kibyšių",14
+"Varėnos - Eišiškių",70,"Kalesninkų",15
+"Varėnos - Eišiškių",70,"Merkinės",15
+"Varėnos - Eišiškių",70,"Panaros",16
+"Varėnos - Eišiškių",70,"Purvėnų",16
+"Varėnos - Eišiškių",70,"Dainavos",17
+"Varėnos - Eišiškių",70,"Vilkiautinio",17
+"Varėnos - Eišiškių",70,"Pabarės",18
+"Varėnos - Eišiškių",70,"Pilvingių",18
+"Varėnos - Eišiškių",70,"Tetėnų",19
+"Varėnos - Eišiškių",70,"Daržininkų",24
+"Varėnos - Eišiškių",70,"Dargužių",25
+"Varėnos - Eišiškių",70,"Valkininkų",26
+"Varėnos - Eišiškių",70,"Pušelės",27
+"Varėnos - Eišiškių",70,"Gudžių",28
+"Varėnos - Eišiškių",70,"Nedzingės",29
+"Varėnos - Eišiškių",70,"Perlojos",30
+"Varėnos - Eišiškių",70,"Sarapiniškių",31
+"Varėnos - Eišiškių",70,"Tolkūnų",32
+"Varėnos - Eišiškių",70,"Krivilių",33
+"Varėnos - Eišiškių",70,"Vydenių",34
+"Varėnos - Eišiškių",70,"Dailidžių",35
+"Varėnos - Eišiškių",70,"Rudnios",35
+"Varėnos - Eišiškių",70,"Parko",36
+"Varėnos - Eišiškių",70,"Dzūkų",37
+"Varėnos - Eišiškių",70,"Tausiūnų",37
+"Varėnos - Eišiškių",70,"Šilo",38
+"Varėnos - Eišiškių",70,"Senosios Varėnos",39
+"Lazdijų - Druskininkų",71,"Avižienių",1
+"Lazdijų - Druskininkų",71,"Senamiesčio",1
+"Lazdijų - Druskininkų",71,"Bartelių",2
+"Lazdijų - Druskininkų",71,"Naujamiesčio",2
+"Lazdijų - Druskininkų",71,"Atgimimo",3
+"Lazdijų - Druskininkų",71,"Bugiedos",3
+"Lazdijų - Druskininkų",71,"Būdviečio",4
+"Lazdijų - Druskininkų",71,"Kloniškių",4
+"Lazdijų - Druskininkų",71,"Dumblio",5
+"Lazdijų - Druskininkų",71,"Kalviškės",5
+"Lazdijų - Druskininkų",71,"Eglės",6
+"Lazdijų - Druskininkų",71,"Kapčiamiesčio",6
+"Lazdijų - Druskininkų",71,"A.Kirsnos",7
+"Lazdijų - Druskininkų",71,"Ratnyčios",7
+"Lazdijų - Druskininkų",71,"Grūto",8
+"Lazdijų - Druskininkų",71,"Kirsnos",8
+"Lazdijų - Druskininkų",71,"Krikštonių",9
+"Lazdijų - Druskininkų",71,"Švendubrės",9
+"Lazdijų - Druskininkų",71,"Krosnos",10
+"Lazdijų - Druskininkų",71,"Viečiūnų",10
+"Lazdijų - Druskininkų",71,"Kuklių",11
+"Lazdijų - Druskininkų",71,"Neravų",11
+"Lazdijų - Druskininkų",71,"Kučiūnų",12
+"Lazdijų - Druskininkų",71,"Leipalingio",12
+"Lazdijų - Druskininkų",71,"Lipliūnų",13
+"Lazdijų - Druskininkų",71,"Vytautų",13
+"Lazdijų - Druskininkų",71,"Lazdijų",14
+"Lazdijų - Druskininkų",71,"Ricielių",14
+"Lazdijų - Druskininkų",71,"Metelių",15
+"Lazdijų - Druskininkų",71,"Nemajūnų",16
+"Lazdijų - Druskininkų",71,"Noragėlių",17
+"Lazdijų - Druskininkų",71,"Petroškų",18
+"Lazdijų - Druskininkų",71,"Rudaminos",19
+"Lazdijų - Druskininkų",71,"Seiliūnų",20
+"Lazdijų - Druskininkų",71,"Seirijų",21
+"Lazdijų - Druskininkų",71,"Stebulių",22
+"Lazdijų - Druskininkų",71,"Šeštokų",23
+"Lazdijų - Druskininkų",71,"Šventežerio",24
+"Lazdijų - Druskininkų",71,"Teizų",25
+"Lazdijų - Druskininkų",71,"Verstaminų",26
+"Lazdijų - Druskininkų",71,"Veisiejų",27
+"Lazdijų - Druskininkų",71,"Viktarinos",28
+"Lazdijų - Druskininkų",71,"Žagarių",29
+"Lazdijų - Druskininkų",71,"Varnėnų",33
